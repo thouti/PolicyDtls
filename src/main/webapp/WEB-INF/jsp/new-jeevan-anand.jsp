@@ -1950,11 +1950,11 @@ Header style 3
 <!-- /wp:button -->
 
 <!-- wp:button {"borderRadius":11} -->
-<div class="wp-block-button"><a class="wp-block-button__link" href="tel:09949346104" style="border-radius:11px">📞 9949346104</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="tel:09949346104" style="border-radius:11px"> 9949346104</a></div>
 <!-- /wp:button -->
 
 <!-- wp:button {"backgroundColor":"vivid-green-cyan","borderRadius":11,"className":"is-style-round"} -->
-<div class="wp-block-button is-style-round"><a class="wp-block-button__link has-background has-vivid-green-cyan-background-color" href="https://wa.me/919768187224?text=I'm%20interested%20in%20your%20insurance%20Services" style="border-radius:11px">💬 WhatsApp</a></div>
+<!-- <div class="wp-block-button is-style-round"><a class="wp-block-button__link has-background has-vivid-green-cyan-background-color" href="https://wa.me/919768187224?text=I'm%20interested%20in%20your%20insurance%20Services" style="border-radius:11px">💬 WhatsApp</a></div> -->
 <!-- /wp:button --></div></div>
 <p>LIC’s New Jeevan Anand Plan is a whole life conventional savings cum and insurance plan offered by LIC of India. The risk coverage or insurance coverage under this plan continues even after the policy maturity and the death benefit is paid to the nominee even if the insured person dies after the completion of the policy term.</p>
 
@@ -1986,11 +1986,11 @@ Header style 3
 <!-- /wp:button -->
 
 <!-- wp:button {"borderRadius":11} -->
-<div class="wp-block-button"><a class="wp-block-button__link" href="tel:09949346104" style="border-radius:11px">📞 9949346104</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="tel:09949346104" style="border-radius:11px"> 9949346104</a></div>
 <!-- /wp:button -->
 
 <!-- wp:button {"backgroundColor":"vivid-green-cyan","borderRadius":11,"className":"is-style-round"} -->
-<div class="wp-block-button is-style-round"><a class="wp-block-button__link has-background has-vivid-green-cyan-background-color" href="https://wa.me/919768187224?text=I'm%20interested%20in%20your%20insurance%20Services" style="border-radius:11px">💬 WhatsApp</a></div>
+<!-- <div class="wp-block-button is-style-round"><a class="wp-block-button__link has-background has-vivid-green-cyan-background-color" href="https://wa.me/919768187224?text=I'm%20interested%20in%20your%20insurance%20Services" style="border-radius:11px">💬 WhatsApp</a></div> -->
 <!-- /wp:button --></div></div>        </div>
 
         <footer>
@@ -2013,7 +2013,7 @@ block_tdi_10_2b5.header_color = "";
 block_tdi_10_2b5.ajax_pagination_infinite_stop = "";
 block_tdi_10_2b5.max_num_pages = "1";
 tdBlocksArray.push(block_tdi_10_2b5);
-</script><h4 class="td-related-title td-block-title"><a id="tdi_11_e58" class="td-related-left td-cur-simple-item" data-td_filter_value="" data-td_block_id="tdi_10_2b5" href="#">Related</a><a id="tdi_12_29b" class="td-related-right" data-td_filter_value="td_related_more_from_author" data-td_block_id="tdi_10_2b5" href="#">More </a></h4><div id=tdi_10_2b5 class="td_block_inner">
+</script><div id=tdi_10_2b5 class="td_block_inner">
 
 	<div class="td-related-row">
 
@@ -2021,9 +2021,9 @@ tdBlocksArray.push(block_tdi_10_2b5);
 
         <div class="td_module_related_posts td-animation-stack td-meta-info-hide td_mod_related_posts">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="https://www.licagentpune.com/lic-jeevan-lakshya" rel="bookmark" class="td-image-wrap " title="LIC Jeevan Lakshya" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="" title="LIC Jeevan Lakshya" data-type="image_tag" data-img-url="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-jeevan-lakshya-218x150.jpg"  width="218" height="150" /></a></div>                            </div>
+                <div class="td-module-thumb"><a href="/jeevan_lakshya" rel="bookmark" class="td-image-wrap " title="LIC Jeevan Lakshya" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="" title="LIC Jeevan Lakshya" data-type="image_tag" data-img-url="images/lic-jeevan-lakshya.jpg"  width="218" height="150" /></a></div>                            </div>
             <div class="item-details">
-                <h3 class="entry-title td-module-title"><a href="https://www.licagentpune.com/lic-jeevan-lakshya" rel="bookmark" title="LIC Jeevan Lakshya">LIC Jeevan Lakshya</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="/jeevan_lakshya" rel="bookmark" title="LIC Jeevan Lakshya">LIC Jeevan Lakshya</a></h3>            </div>
         </div>
         
 	</div> <!-- ./td-related-span4 -->
@@ -2032,9 +2032,9 @@ tdBlocksArray.push(block_tdi_10_2b5);
 
         <div class="td_module_related_posts td-animation-stack td-meta-info-hide td_mod_related_posts">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="https://www.licagentpune.com/lic-jeevan-labh" rel="bookmark" class="td-image-wrap " title="LIC Jeevan Labh" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="" title="LIC Jeevan Labh" data-type="image_tag" data-img-url="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-jeevan-labh-218x150.jpg"  width="218" height="150" /></a></div>                            </div>
+                <div class="td-module-thumb"><a href="/jeevan-labh" rel="bookmark" class="td-image-wrap " title="LIC Jeevan Labh" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="" title="LIC Jeevan Labh" data-type="image_tag" data-img-url="images/lic-jeevan-labh-218x150.jpg"  width="218" height="150" /></a></div>                            </div>
             <div class="item-details">
-                <h3 class="entry-title td-module-title"><a href="https://www.licagentpune.com/lic-jeevan-labh" rel="bookmark" title="LIC Jeevan Labh">LIC Jeevan Labh</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="/jeevan-labh" rel="bookmark" title="LIC Jeevan Labh">LIC Jeevan Labh</a></h3>            </div>
         </div>
         
 	</div> <!-- ./td-related-span4 -->
@@ -2043,9 +2043,9 @@ tdBlocksArray.push(block_tdi_10_2b5);
 
         <div class="td_module_related_posts td-animation-stack td-meta-info-hide td_mod_related_posts">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="https://www.licagentpune.com/lic-jeevan-umang" rel="bookmark" class="td-image-wrap " title="LIC Jeevan Umang" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="LIC Jeevan Umang" title="LIC Jeevan Umang" data-type="image_tag" data-img-url="https://www.licagentpune.com/wp-content/uploads/2020/07/jeevan-umang-218x150.jpg"  width="218" height="150" /></a></div>                            </div>
+                <div class="td-module-thumb"><a href="/jeevanumang" rel="bookmark" class="td-image-wrap " title="LIC Jeevan Umang" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="LIC Jeevan Umang" title="LIC Jeevan Umang" data-type="image_tag" data-img-url="images/jeevan-umang.jpg"  width="218" height="150" /></a></div>                            </div>
             <div class="item-details">
-                <h3 class="entry-title td-module-title"><a href="https://www.licagentpune.com/lic-jeevan-umang" rel="bookmark" title="LIC Jeevan Umang">LIC Jeevan Umang</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="/jeevanumang" rel="bookmark" title="LIC Jeevan Umang">LIC Jeevan Umang</a></h3>            </div>
         </div>
         
 	</div> <!-- ./td-related-span4 --></div><!--./row-fluid--></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-tdi_10_2b5" data-td_block_id="tdi_10_2b5"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page ajax-page-disabled" id="next-page-tdi_10_2b5" data-td_block_id="tdi_10_2b5"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> <!-- ./block -->
@@ -2077,7 +2077,7 @@ tdBlocksArray.push(block_tdi_10_2b5);
         </div> <!-- /.td-container -->
     </div> <!-- /.td-main-content-wrap -->
 
-<p align="center" id="breadcrumbs"><span><span><a href="/">LIC Agent Hyderabad</a> » <span><a href="https://www.licagentpune.com/lic/whole-life-plans">Whole Life Plans</a> » <strong class="breadcrumb_last" aria-current="page">LIC New Jeevan Anand</strong></span></span></span></p><!-- Instagram -->
+<p align="center" id="breadcrumbs"><span><span><a href="/">LIC Agent Hyderabad</a><span>>> <strong class="breadcrumb_last" aria-current="page">LIC New Jeevan Anand</strong></span></span></span></p><!-- Instagram -->
 
 	
 	

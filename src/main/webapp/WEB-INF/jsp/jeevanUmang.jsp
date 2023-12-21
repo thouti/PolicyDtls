@@ -1711,22 +1711,22 @@ var td_ad_background_click_target="";
             <div class="td-menu-socials">
                 
         <span class="td-social-icon-wrap">
-            <a target="_blank" href="https://www.licagentpune.com" title="Facebook">
+            <a target="_blank" href="#" title="Facebook">
                 <i class="td-icon-font td-icon-facebook"></i>
             </a>
         </span>
         <span class="td-social-icon-wrap">
-            <a target="_blank" href="https://www.licagentpune.com" title="Instagram">
+            <a target="_blank" href="#" title="Instagram">
                 <i class="td-icon-font td-icon-instagram"></i>
             </a>
         </span>
         <span class="td-social-icon-wrap">
-            <a target="_blank" href="https://www.licagentpune.com" title="Linkedin">
+            <a target="_blank" href="#" title="Linkedin">
                 <i class="td-icon-font td-icon-linkedin"></i>
             </a>
         </span>
         <span class="td-social-icon-wrap">
-            <a target="_blank" href="https://www.licagentpune.com" title="Twitter">
+            <a target="_blank" href="#" title="Twitter">
                 <i class="td-icon-font td-icon-twitter"></i>
             </a>
         </span>            </div>
@@ -2003,7 +2003,7 @@ tdBlocksArray.push(block_tdi_10_37d);
                         </div>
                                     </div> 
 
-<p align="center" id="breadcrumbs"><span><span><a href="/">LIC Agent Hyderabad</a> >> <span><a href="/sub/child-plans">Child Plans</a>>> <strong class="breadcrumb_last" aria-current="page">LIC Jeevan Umang</strong></span></span></span></p><!-- Instagram -->
+<p align="center" id="breadcrumbs"><span><span><a href="/">LIC Agent Hyderabad</a> >> <span><a href="#">Child Plans</a>>> <strong class="breadcrumb_last" aria-current="page">LIC Jeevan Umang</strong></span></span></span></p><!-- Instagram -->
             <div class="tdc-footer-wrap ">
 
       <jsp:include page="../jsp/footer.jsp"></jsp:include>

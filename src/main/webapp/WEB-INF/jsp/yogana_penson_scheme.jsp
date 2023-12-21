@@ -23,7 +23,7 @@
 	<meta property="og:image:height" content="675" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label1" content="Written by">
-	<meta name="twitter:data1" content="LICAgentPune">
+	<meta name="twitter:data1" content="LICAgentHyderabad">
 	<meta name="twitter:label2" content="Est. reading time">
 	<meta name="twitter:data2" content="1 minute">
 	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.licagentpune.com/#organization","name":"LIC Agent Hyderabad","url":"https://www.licagentpune.com/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://www.licagentpune.com/#logo","inLanguage":"en-US","url":"https://www.licagentpune.com/wp-content/uploads/2020/07/lic-agent-140-48.png","contentUrl":"https://www.licagentpune.com/wp-content/uploads/2020/07/lic-agent-140-48.png","width":140,"height":48,"caption":"LIC Agent Hyderabad"},"image":{"@id":"https://www.licagentpune.com/#logo"}},{"@type":"WebSite","@id":"https://www.licagentpune.com/#website","url":"https://www.licagentpune.com/","name":"LIC Agent Hyderabad","description":"Just another WordPress site","publisher":{"@id":"https://www.licagentpune.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.licagentpune.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#primaryimage","inLanguage":"en-US","url":"images/lic-pmvvy.jpg","contentUrl":"images/lic-pmvvy.jpg","width":1200,"height":675},{"@type":["WebPage","FAQPage"],"@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#webpage","url":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme","name":"PM Vaya Vandana Yojana pension scheme &raquo; LIC Agent Hyderabad","isPartOf":{"@id":"https://www.licagentpune.com/#website"},"primaryImageOfPage":{"@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#primaryimage"},"datePublished":"2020-07-04T06:20:48+00:00","dateModified":"2020-07-04T06:27:53+00:00","breadcrumb":{"@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#breadcrumb"},"mainEntity":[{"@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843151331"},{"@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843387489"},{"@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843449768"},{"@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843623586"}],"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme"]}]},{"@type":"BreadcrumbList","@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.licagentpune.com/","url":"https://www.licagentpune.com/","name":"LIC Agent Hyderabad"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.licagentpune.com/lic/pension-plans","url":"https://www.licagentpune.com/lic/pension-plans","name":"Pension Plans"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme","url":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme","name":"PM Vaya Vandana Yojana pension scheme"}}]},{"@type":"Article","@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#article","isPartOf":{"@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#webpage"},"author":{"@id":"https://www.licagentpune.com/#/schema/person/b1acfe6d3f21b3f2d35e38460c1c069b"},"headline":"PM Vaya Vandana Yojana pension scheme","datePublished":"2020-07-04T06:20:48+00:00","dateModified":"2020-07-04T06:27:53+00:00","mainEntityOfPage":{"@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#webpage"},"commentCount":0,"publisher":{"@id":"https://www.licagentpune.com/#organization"},"image":{"@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#primaryimage"},"articleSection":"Pension Plans","inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#respond"]}]},{"@type":"Person","@id":"https://www.licagentpune.com/#/schema/person/b1acfe6d3f21b3f2d35e38460c1c069b","name":"LICAgentPune","image":{"@type":"ImageObject","@id":"https://www.licagentpune.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/fb95574270bf2ce912485cd645f067b6?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/fb95574270bf2ce912485cd645f067b6?s=96&d=mm&r=g","caption":"LICAgentPune"},"description":"licagentpune.com provide all of your insurance needs. We are a group of dedicated insurance professionals committed to protecting you, your family members and your business with caring, personalized LIC insurance service.","sameAs":["https://contact.licagentpune.com"]},{"@type":"Question","@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843151331","position":1,"url":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843151331","name":"What is the maturity benefit?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"If the pensioner survives till the end of the policy term of 10 years, purchase price i.e. invested amount of the annuity along with final pension installment will be payable to the policyholder.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843387489","position":2,"url":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843387489","name":"What is the death benefit under PMVVY?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"If the policyholder dies during the policy term of 10 years, the purchase price of the pradhan mantri vay vandana yojana annuity scheme will be refunded to the nominee.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843449768","position":3,"url":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843449768","name":"What is the mode of annuity payment and how it is paid to annuity holder?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"The modes of pension payment are monthly, quarterly, half-yearly and yearly. The pension payment is processed through NEFT.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843623586","position":4,"url":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843623586","name":"Is pension amount taxable?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"Pension amount is taxable.","inLanguage":"en-US"},"inLanguage":"en-US"}]}</script>
@@ -210,7 +210,7 @@ var td_magnific_popup_translation_tNext="Next (Right arrow key)";
 var td_magnific_popup_translation_tCounter="%curr% of %total%";
 var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
 var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
-var tdBlockNonce="26f3113e36";
+var tdBlockNonce="b92a55aa88";
 var tdDateNamesI18n={"month_names":["January","February","March","April","May","June","July","August","September","October","November","December"],"month_names_short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"day_names":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"day_names_short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]};
 var td_ad_background_click_link="";
 var td_ad_background_click_target="";
@@ -1748,29 +1748,18 @@ Header style 3
 
     <div class="td-header-menu-wrap-full td-container-wrap ">
         
-        <div class="td-header-menu-wrap td-header-menu-no-search">
-            <div class="td-container td-header-row td-header-main-menu black-menu">
-                <div id="td-header-menu" role="navigation">
+        <div class="td-header-menu-wrap td-header-menu-no-search" >
+           
 	    <jsp:include page="../jsp/policyTypes.jsp"></jsp:include>
-</div>
 
 
-    <div class="td-search-wrapper">
-        <div id="td-top-search">
-            <!-- Search -->
-            <div class="header-search-wrap">
-                <div class="dropdown header-search">
-                    <a id="td-header-search-button-mob" href="#" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
-                </div>
-            </div>
-        </div>
+
+   
     </div>
             </div>
         </div>
     </div>
 
-</div>
-            </div>
 
             
     <div class="td-main-content-wrap td-container-wrap">
@@ -1897,31 +1886,11 @@ tdBlocksArray.push(block_tdi_10_6aa);
 	</div> <!-- ./td-related-span4 --></div><!--./row-fluid--></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-tdi_10_6aa" data-td_block_id="tdi_10_6aa"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page ajax-page-disabled" id="next-page-tdi_10_6aa" data-td_block_id="tdi_10_6aa"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> <!-- ./block -->
                                 </div>
                         </div>
-                        <div class="td-pb-span4 td-main-sidebar" role="complementary">
-                            <div class="td-ss-main-sidebar">
-                                <aside id="text-2" class="td_block_template_4 widget text-2 widget_text"><h4 class="td-block-title"><span>Book an Appointment</span></h4>			<div class="textwidget"><div role="form" class="wpcf7" id="wpcf7-f117-p362-o1" lang="en-US" dir="ltr">
-<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="/pm-vaya-vandana-yojana-pension-scheme#wpcf7-f117-p362-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
-<div style="display: none;">
-<input type="hidden" name="_wpcf7" value="117" />
-<input type="hidden" name="_wpcf7_version" value="5.6.1" />
-<input type="hidden" name="_wpcf7_locale" value="en_US" />
-<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f117-p362-o1" />
-<input type="hidden" name="_wpcf7_container_post" value="362" />
-<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+                    <jsp:include page="../jsp/registerForm.jsp"></jsp:include>
 </div>
-<p><label><span class="wpcf7-form-control-wrap" data-name="your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Name *" /></span> </label></p>
-<p><label><span class="wpcf7-form-control-wrap" data-name="your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email Address *" /></span> </label></p>
-<p><label><span class="wpcf7-form-control-wrap" data-name="your-phone"><input type="text" name="your-phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Phone Number *" /></span> </label></p>
-<p><label><span class="wpcf7-form-control-wrap" data-name="your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message *"></textarea></span> </label></p>
-<p><input type="submit" value="Submit" class="wpcf7-form-control has-spinner wpcf7-submit" /></p>
-<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>
-</div>
-		</aside>                            </div>
+		                            </div>
                         </div>
-                                    </div> <!-- /.td-pb-row -->
-        </div> <!-- /.td-container -->
-    </div> <!-- /.td-main-content-wrap -->
+                                    </div> 
 
 <p align="center" id="breadcrumbs"><span><span><a href="/">LIC Agent Hyderabad</a> >> <span><a href="/pensionplans">Pension Plans</a> >> <strong class="breadcrumb_last" aria-current="page">PM Vaya Vandana Yojana pension scheme</strong></span></span></span></p><!-- Instagram -->
 
@@ -2101,7 +2070,7 @@ var wpcf7 = {"api":{"root":"https:\/\/www.licagentpune.com\/wp-json\/","namespac
 
 
 
-<script src="https://www.licagentpune.com/wp-content/cache/minify/99a8f.js"></script>
+<script src="js/99a8f.js"></script>
 
 <script type='text/javascript' id='jquery-fancybox-js-after'>
 var fb_timeout, fb_opts={'overlayShow':true,'hideOnOverlayClick':true,'showCloseButton':true,'margin':20,'centerOnScroll':false,'enableEscapeButton':true,'autoScale':true };
@@ -2123,15 +2092,15 @@ jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_hand
 jQuery(easy_fancybox_auto);
 </script>
 
-<script src="https://www.licagentpune.com/wp-content/cache/minify/ecadd.js"></script>
+<script src="js/ecadd.js"></script>
 
 <script type='text/javascript' id='mystickyelements-fronted-js-js-extra'>
 /* <![CDATA[ */
-var mystickyelements = {"ajaxurl":"https:\/\/www.licagentpune.com\/wp-admin\/admin-ajax.php","ajax_nonce":"bec5c2fa22","google_analytics":""};
+var mystickyelements = {"ajaxurl":"https:\/\/www.licagentpune.com\/wp-admin\/admin-ajax.php","ajax_nonce":"21e4dd59b8","google_analytics":""};
 /* ]]> */
 </script>
 
-<script src="https://www.licagentpune.com/wp-content/cache/minify/9516f.js"></script>
+<script src="js/9516f.js"></script>
 
 
 <!-- JS generated by theme -->
@@ -2143,11 +2112,3 @@ var mystickyelements = {"ajaxurl":"https:\/\/www.licagentpune.com\/wp-admin\/adm
 
 </body>
 </html>
-<!--
-Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
-
-Page Caching using disk: enhanced 
-Minified using disk
-
-Served from: www.licagentpune.com @ 2022-11-26 17:29:46 by W3 Total Cache
--->

@@ -3,7 +3,7 @@
 <!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
 <!--[if gt IE 8]><!--> <html lang="en-US"> <!--<![endif]-->
 <head>
-    <title>New Children’s Money Back &raquo; LIC Agent Hyderabad</title>
+    <title>New Children's Money Back &raquo; LIC Agent Hyderabad</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="pingback" href="https://www.licagentpune.com/xmlrpc.php" />
@@ -1913,9 +1913,9 @@ Header style 3
     <article id="post-370" class="post-370 post type-post status-publish format-standard has-post-thumbnail category-child-plans" 0>
         <div class="td-post-header">
 
-            <!-- category --><ul class="td-category"><li class="entry-category"><a  href="https://www.licagentpune.com/lic/child-plans">Child Plans</a></li></ul>
+            <!-- category --><ul class="td-category"><li class="entry-category"><a  href="/sub/child-plans">Child Plans</a></li></ul>
             <header class="td-post-title">
-                <h1 class="entry-title">New Children’s Money Back</h1>
+                <h1 class="entry-title">New Children's Money Back</h1>
                 
 
                 <div class="td-module-meta-info">
@@ -1949,13 +1949,13 @@ Header style 3
 <!-- /wp:button -->
 
 <!-- wp:button {"borderRadius":11} -->
-<div class="wp-block-button"><a class="wp-block-button__link" href="tel:09949346104" style="border-radius:11px">📞 9949346104</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="tel:09949346104" style="border-radius:11px"> 9949346104</a></div>
 <!-- /wp:button -->
 
 <!-- wp:button {"backgroundColor":"vivid-green-cyan","borderRadius":11,"className":"is-style-round"} -->
-<div class="wp-block-button is-style-round"><a class="wp-block-button__link has-background has-vivid-green-cyan-background-color" href="https://wa.me/919768187224?text=I'm%20interested%20in%20your%20insurance%20Services" style="border-radius:11px">💬 WhatsApp</a></div>
+<!-- <div class="wp-block-button is-style-round"><a class="wp-block-button__link has-background has-vivid-green-cyan-background-color" href="https://wa.me/919768187224?text=I'm%20interested%20in%20your%20insurance%20Services" style="border-radius:11px">💬 WhatsApp</a></div>  -->
 <!-- /wp:button --></div></div>
-<p>LIC&#8217;s New Children’s Money Back Plan is a insurance cum investment plan for the future of the child which can be used for securing the financial requirements of a child when they complete 25 years age. It is a participating plan and so it is is eligible for LIC&#8217;s bonus depending on the performance of LIC.</p>
+<p>LIC&#8217;s New Children's Money Back Plan is a insurance cum investment plan for the future of the child which can be used for securing the financial requirements of a child when they complete 25 years age. It is a participating plan and so it is is eligible for LIC&#8217;s bonus depending on the performance of LIC.</p>
 
 
 
@@ -1985,11 +1985,11 @@ Header style 3
 <!-- /wp:button -->
 
 <!-- wp:button {"borderRadius":11} -->
-<div class="wp-block-button"><a class="wp-block-button__link" href="tel:09949346104" style="border-radius:11px">📞 9949346104</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="tel:09949346104" style="border-radius:11px"> 9949346104</a></div>
 <!-- /wp:button -->
 
 <!-- wp:button {"backgroundColor":"vivid-green-cyan","borderRadius":11,"className":"is-style-round"} -->
-<div class="wp-block-button is-style-round"><a class="wp-block-button__link has-background has-vivid-green-cyan-background-color" href="https://wa.me/919768187224?text=I'm%20interested%20in%20your%20insurance%20Services" style="border-radius:11px">💬 WhatsApp</a></div>
+<!-- <div class="wp-block-button is-style-round"><a class="wp-block-button__link has-background has-vivid-green-cyan-background-color" href="https://wa.me/919768187224?text=I'm%20interested%20in%20your%20insurance%20Services" style="border-radius:11px">💬 WhatsApp</a></div> -->
 <!-- /wp:button --></div></div>        </div>
 
         <footer>
@@ -2020,9 +2020,9 @@ tdBlocksArray.push(block_tdi_10_53f);
 
         <div class="td_module_related_posts td-animation-stack td-meta-info-hide td_mod_related_posts">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="https://www.licagentpune.com/lic-jeevan-lakshya" rel="bookmark" class="td-image-wrap " title="LIC Jeevan Lakshya" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="" title="LIC Jeevan Lakshya" data-type="image_tag" data-img-url="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-jeevan-lakshya-218x150.jpg"  width="218" height="150" /></a></div>                            </div>
+                <div class="td-module-thumb"><a href="/jeevan_lakshya" rel="bookmark" class="td-image-wrap " title="LIC Jeevan Lakshya" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="" title="LIC Jeevan Lakshya" data-type="image_tag" data-img-url="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-jeevan-lakshya-218x150.jpg"  width="218" height="150" /></a></div>                            </div>
             <div class="item-details">
-                <h3 class="entry-title td-module-title"><a href="https://www.licagentpune.com/lic-jeevan-lakshya" rel="bookmark" title="LIC Jeevan Lakshya">LIC Jeevan Lakshya</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="/jeevan_lakshya" rel="bookmark" title="LIC Jeevan Lakshya">LIC Jeevan Lakshya</a></h3>            </div>
         </div>
         
 	</div> <!-- ./td-related-span4 -->
@@ -2031,9 +2031,9 @@ tdBlocksArray.push(block_tdi_10_53f);
 
         <div class="td_module_related_posts td-animation-stack td-meta-info-hide td_mod_related_posts">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="https://www.licagentpune.com/lic-jeevan-umang" rel="bookmark" class="td-image-wrap " title="LIC Jeevan Umang" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="LIC Jeevan Umang" title="LIC Jeevan Umang" data-type="image_tag" data-img-url="https://www.licagentpune.com/wp-content/uploads/2020/07/jeevan-umang-218x150.jpg"  width="218" height="150" /></a></div>                            </div>
+                <div class="td-module-thumb"><a href="/jeevanumang" rel="bookmark" class="td-image-wrap " title="LIC Jeevan Umang" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="LIC Jeevan Umang" title="LIC Jeevan Umang" data-type="image_tag" data-img-url="images/jeevan-umang.jpg"  width="218" height="150" /></a></div>                            </div>
             <div class="item-details">
-                <h3 class="entry-title td-module-title"><a href="https://www.licagentpune.com/lic-jeevan-umang" rel="bookmark" title="LIC Jeevan Umang">LIC Jeevan Umang</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="/jeevanumang" rel="bookmark" title="LIC Jeevan Umang">LIC Jeevan Umang</a></h3>            </div>
         </div>
         
 	</div> <!-- ./td-related-span4 -->
@@ -2042,9 +2042,9 @@ tdBlocksArray.push(block_tdi_10_53f);
 
         <div class="td_module_related_posts td-animation-stack td-meta-info-hide td_mod_related_posts">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="https://www.licagentpune.com/lic-jeevan-tarun-plan" rel="bookmark" class="td-image-wrap " title="LIC Jeevan Tarun Plan" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="LIC Jeevan Tarun" title="LIC Jeevan Tarun Plan" data-type="image_tag" data-img-url="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-jeevan-tarun-218x150.jpg"  width="218" height="150" /></a></div>                            </div>
+                <div class="td-module-thumb"><a href="/jeevan-tarun-plan" rel="bookmark" class="td-image-wrap " title="LIC Jeevan Tarun Plan" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="LIC Jeevan Tarun" title="LIC Jeevan Tarun Plan" data-type="image_tag" data-img-url="images/lic-jeevan-tarun-218x150.jpg"  width="218" height="150" /></a></div>                            </div>
             <div class="item-details">
-                <h3 class="entry-title td-module-title"><a href="https://www.licagentpune.com/lic-jeevan-tarun-plan" rel="bookmark" title="LIC Jeevan Tarun Plan">LIC Jeevan Tarun Plan</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="/jeevan-tarun-plan" rel="bookmark" title="LIC Jeevan Tarun Plan">LIC Jeevan Tarun Plan</a></h3>            </div>
         </div>
         
 	</div> <!-- ./td-related-span4 --></div><!--./row-fluid--></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-tdi_10_53f" data-td_block_id="tdi_10_53f"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page ajax-page-disabled" id="next-page-tdi_10_53f" data-td_block_id="tdi_10_53f"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> <!-- ./block -->
@@ -2058,7 +2058,7 @@ tdBlocksArray.push(block_tdi_10_53f);
         </div> <!-- /.td-container -->
     </div> <!-- /.td-main-content-wrap -->
 
-<p align="center" id="breadcrumbs"><span><span><a href="https://www.licagentpune.com/">LIC Agent Hyderabad</a> » <span><a href="https://www.licagentpune.com/lic/child-plans">Child Plans</a> » <strong class="breadcrumb_last" aria-current="page">New Children’s Money Back</strong></span></span></span></p><!-- Instagram -->
+<p align="center" id="breadcrumbs"><span><span><a href="/">LIC Agent Hyderabad</a> >> <span><a href="/sub/child-plans">Child Plans</a> >> <strong class="breadcrumb_last" aria-current="page">New Children’s Money Back</strong></span></span></span></p><!-- Instagram -->
             <div class="tdc-footer-wrap ">
             <jsp:include page="../jsp/footer.jsp"></jsp:include>
                 <!-- Footer -->

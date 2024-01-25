@@ -1904,10 +1904,10 @@ Header style 3
 					<div class="td-pb-span12">
 						<div class="td_block_wrap td_block_big_grid_2 tdi_8_3bb td-grid-style-4 td-hover-1 td-big-grids td-pb-border-top td_block_template_4"  data-td-block-uid="tdi_8_3bb" ><div id=tdi_8_3bb class="td_block_inner"><div class="td-big-grid-wrapper">
         <div class="td_module_mx9 td-animation-stack td-meta-info-hide td-big-grid-post-0 td-big-grid-post td-big-thumb">
-            <div class="td-module-thumb"><a href="/jeevanumang" rel="bookmark" class="td-image-wrap " title="LIC Jeevan Umang" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAuUAAAHmAQMAAADuiGKOAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAAENJREFUeNrtwYEAAAAAw6D7Ux9gCtUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIgDsnQAAavKUH8AAAAASUVORK5CYII=" alt="LIC Jeevan Umang" title="LIC Jeevan Umang" data-type="image_tag" data-img-url="../images/jeevan-umang.jpg"  width="741" height="486" /></a></div>            <div class="td-meta-info-container">
+            <div class="td-module-thumb"><a href="/jeevanumang" rel="bookmark" class="td-image-wrap " title="LIC Jeevan Umang" ><img class="entry-thumb" src="data:images/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAuUAAAHmAQMAAADuiGKOAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAAENJREFUeNrtwYEAAAAAw6D7Ux9gCtUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIgDsnQAAavKUH8AAAAASUVORK5CYII=" alt="LIC Jeevan Umang" title="LIC Jeevan Umang" data-type="image_tag" data-img-url="../images/jeevan-umang.jpg"  width="741" height="486" /></a></div>            <div class="td-meta-info-container">
                 <div class="td-meta-align">
                     <div class="td-big-grid-meta">
-                                                <h3 class="entry-title td-module-title"><a href="/jeevanumang" rel="bookmark" title="LIC Jeevan Umang">LIC Jeevan Umang</a></h3>                    </div>
+                                                <h3 class="entry-title td-module-title"><a href="/jeevanumang" rel="bookmark" title="LIC Jeevan Umang">LIC Jeevan Umang123</a></h3>                    </div>
                     <div class="td-module-meta-info">
                                                                     </div>
                 </div>

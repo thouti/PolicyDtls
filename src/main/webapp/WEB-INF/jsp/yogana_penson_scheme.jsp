@@ -6,9 +6,8 @@
     <title>PM Vaya Vandana Yojana pension scheme &raquo; LIC Agent Hyderabad</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="pingback" href="https://www.licagentpune.com/xmlrpc.php" />
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-<link rel="icon" type="image/png" href="images/lic-ag-pune.png"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-76.png"/><link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-120.png"/><link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-155.png"/><link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-114.png"/><link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-144.png"/>
+<link rel="icon" type="image/jpg" href="../images/lic Agent.jpg" style="height:400; width:50"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="../images/lic Agent.jpg"/><link rel="apple-touch-icon-precomposed" sizes="120x120" href="../images/lic Agent.jpg"/><link rel="apple-touch-icon-precomposed" sizes="152x152" href="../images/lic Agent.jpg"/><link rel="apple-touch-icon-precomposed" sizes="114x114" href="../images/lic Agent.jpg"/><link rel="apple-touch-icon-precomposed" sizes="144x144" href="../images/lic Agent.jpg"/>
 	<link rel="canonical" href="/yogana_penson_scheme" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
@@ -18,25 +17,18 @@
 	<meta property="og:site_name" content="LIC Agent Hyderabad" />
 	<meta property="article:published_time" content="2020-07-04T06:20:48+00:00" />
 	<meta property="article:modified_time" content="2020-07-04T06:27:53+00:00" />
-	<meta property="og:image" content="images/lic-pmvvy.jpg" />
+	<meta property="og:image" content="../images/lic-pmvvy.jpg" />
 	<meta property="og:image:width" content="1200" />
 	<meta property="og:image:height" content="675" />
-	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:label1" content="Written by">
-	<meta name="twitter:data1" content="LICAgentHyderabad">
-	<meta name="twitter:label2" content="Est. reading time">
-	<meta name="twitter:data2" content="1 minute">
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.licagentpune.com/#organization","name":"LIC Agent Hyderabad","url":"https://www.licagentpune.com/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://www.licagentpune.com/#logo","inLanguage":"en-US","url":"https://www.licagentpune.com/wp-content/uploads/2020/07/lic-agent-140-48.png","contentUrl":"https://www.licagentpune.com/wp-content/uploads/2020/07/lic-agent-140-48.png","width":140,"height":48,"caption":"LIC Agent Hyderabad"},"image":{"@id":"https://www.licagentpune.com/#logo"}},{"@type":"WebSite","@id":"https://www.licagentpune.com/#website","url":"https://www.licagentpune.com/","name":"LIC Agent Hyderabad","description":"Just another WordPress site","publisher":{"@id":"https://www.licagentpune.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.licagentpune.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#primaryimage","inLanguage":"en-US","url":"images/lic-pmvvy.jpg","contentUrl":"images/lic-pmvvy.jpg","width":1200,"height":675},{"@type":["WebPage","FAQPage"],"@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#webpage","url":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme","name":"PM Vaya Vandana Yojana pension scheme &raquo; LIC Agent Hyderabad","isPartOf":{"@id":"https://www.licagentpune.com/#website"},"primaryImageOfPage":{"@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#primaryimage"},"datePublished":"2020-07-04T06:20:48+00:00","dateModified":"2020-07-04T06:27:53+00:00","breadcrumb":{"@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#breadcrumb"},"mainEntity":[{"@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843151331"},{"@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843387489"},{"@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843449768"},{"@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843623586"}],"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme"]}]},{"@type":"BreadcrumbList","@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.licagentpune.com/","url":"https://www.licagentpune.com/","name":"LIC Agent Hyderabad"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.licagentpune.com/lic/pension-plans","url":"https://www.licagentpune.com/lic/pension-plans","name":"Pension Plans"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme","url":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme","name":"PM Vaya Vandana Yojana pension scheme"}}]},{"@type":"Article","@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#article","isPartOf":{"@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#webpage"},"author":{"@id":"https://www.licagentpune.com/#/schema/person/b1acfe6d3f21b3f2d35e38460c1c069b"},"headline":"PM Vaya Vandana Yojana pension scheme","datePublished":"2020-07-04T06:20:48+00:00","dateModified":"2020-07-04T06:27:53+00:00","mainEntityOfPage":{"@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#webpage"},"commentCount":0,"publisher":{"@id":"https://www.licagentpune.com/#organization"},"image":{"@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#primaryimage"},"articleSection":"Pension Plans","inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#respond"]}]},{"@type":"Person","@id":"https://www.licagentpune.com/#/schema/person/b1acfe6d3f21b3f2d35e38460c1c069b","name":"LICAgentPune","image":{"@type":"ImageObject","@id":"https://www.licagentpune.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/fb95574270bf2ce912485cd645f067b6?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/fb95574270bf2ce912485cd645f067b6?s=96&d=mm&r=g","caption":"LICAgentPune"},"description":"licagentpune.com provide all of your insurance needs. We are a group of dedicated insurance professionals committed to protecting you, your family members and your business with caring, personalized LIC insurance service.","sameAs":["https://contact.licagentpune.com"]},{"@type":"Question","@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843151331","position":1,"url":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843151331","name":"What is the maturity benefit?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"If the pensioner survives till the end of the policy term of 10 years, purchase price i.e. invested amount of the annuity along with final pension installment will be payable to the policyholder.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843387489","position":2,"url":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843387489","name":"What is the death benefit under PMVVY?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"If the policyholder dies during the policy term of 10 years, the purchase price of the pradhan mantri vay vandana yojana annuity scheme will be refunded to the nominee.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843449768","position":3,"url":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843449768","name":"What is the mode of annuity payment and how it is paid to annuity holder?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"The modes of pension payment are monthly, quarterly, half-yearly and yearly. The pension payment is processed through NEFT.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843623586","position":4,"url":"https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme#faq-question-1593843623586","name":"Is pension amount taxable?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"Pension amount is taxable.","inLanguage":"en-US"},"inLanguage":"en-US"}]}</script>
+	
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; Feed" href="files/feed" />
-<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; Comments Feed" href="https://www.licagentpune.com/comments/feed" />
-<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; PM Vaya Vandana Yojana pension scheme Comments Feed" href="files/feed" />
+<!--  
 <script type="text/javascript">
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.licagentpune.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
 /*! This file is auto-generated */
 !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
-</script>
+</script> -->
 <style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -82,12 +74,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='mystickyelements-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600%2C700&#038;ver=1.7.8' type='text/css' media='all' />
 <link rel="stylesheet" href="css/2fdce.css" media="all" />
 <script src="js/818c0.js"></script>
-<link rel="https://api.w.org/" href="https://www.licagentpune.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.licagentpune.com/wp-json/wp/v2/posts/362" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.licagentpune.com/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.licagentpune.com/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 6.0.3" />
-<link rel="alternate" type="application/json+oembed" href="https://www.licagentpune.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.licagentpune.com%2Fpm-vaya-vandana-yojana-pension-scheme" />
-<link rel="alternate" type="text/xml+oembed" href="https://www.licagentpune.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.licagentpune.com%2Fpm-vaya-vandana-yojana-pension-scheme&#038;format=xml" />
-<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
         <script>
         window.tdb_globals = {"wpRestNonce":"dd6ee064ea","wpRestUrl":"https:\/\/www.licagentpune.com\/wp-json\/","permalinkStructure":"\/%postname%","isAjax":false,"isAdminBarShowing":false,"autoloadScrollPercent":50,"postAutoloadStatus":"on","origPostEditUrl":null};
     </script>
@@ -1844,7 +1831,7 @@ Header style 3
             <div class="td-post-source-tags">
                 <!-- source via -->                <!-- tags -->            </div>
 
-                        <!-- next prev -->            <!-- author box --><div class="td-author-name vcard author" style="display: none"><span class="fn"><a href="https://www.licagentpune.com/author/licadmin">LICAgentPune</a></span></div>            <!-- meta -->        </footer>
+                        <!-- next prev -->            <!-- author box -->           <!-- meta -->        </footer>
 
     </article> <!-- /.post -->
 
@@ -1859,7 +1846,7 @@ block_tdi_10_6aa.header_color = "";
 block_tdi_10_6aa.ajax_pagination_infinite_stop = "";
 block_tdi_10_6aa.max_num_pages = "1";
 tdBlocksArray.push(block_tdi_10_6aa);
-</script><h4 class="td-related-title td-block-title"><a id="tdi_11_c43" class="td-related-left td-cur-simple-item" data-td_filter_value="" data-td_block_id="tdi_10_6aa" href="#">Related</a></h4><div id=tdi_10_6aa class="td_block_inner">
+</script><!-- <h4 class="td-related-title td-block-title"><a id="tdi_11_c43" class="td-related-left td-cur-simple-item" data-td_filter_value="" data-td_block_id="tdi_10_6aa" href="#">Related</a></h4> --><div id=tdi_10_6aa class="td_block_inner">
 
 	<div class="td-related-row">
 
@@ -1878,7 +1865,7 @@ tdBlocksArray.push(block_tdi_10_6aa);
 
         <div class="td_module_related_posts td-animation-stack td-meta-info-hide td_mod_related_posts">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="/jeevan_shanti_single_premium_plan" rel="bookmark" class="td-image-wrap " title="LIC Jeevan Shanti &#8211; Single Premium Pension Plan" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="LIC Jeevan Shanti Plan" title="LIC Jeevan Shanti &#8211; Single Premium Pension Plan" data-type="image_tag" data-img-url="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-jeevan-shanti-218x150.jpg"  width="218" height="150" /></a></div>                            </div>
+                <div class="td-module-thumb"><a href="/jeevan_shanti_single_premium_plan" rel="bookmark" class="td-image-wrap " title="LIC Jeevan Shanti &#8211; Single Premium Pension Plan" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="LIC Jeevan Shanti Plan" title="LIC Jeevan Shanti &#8211; Single Premium Pension Plan" data-type="image_tag" data-img-url="../images//lic-jeevan-shanti-218x150.jpg"  width="218" height="150" /></a></div>                            </div>
             <div class="item-details">
                 <h3 class="entry-title td-module-title"><a href="/jeevan_shanti_single_premium_plan" rel="bookmark" title="LIC Jeevan Shanti &#8211; Single Premium Pension Plan">LIC Jeevan Shanti &#8211; Single Premium Pension Plan</a></h3>            </div>
         </div>
@@ -1950,11 +1937,7 @@ tdBlocksArray.push(block_tdi_10_6aa);
 												   value="Submit"
 												   style="background-color: #7761DF;color:#FFFFFF;"/>
 																						<input type="hidden" name="nonce" value="63824d0a3c2af166948378663824d0a3c2b5">
-											<input type="hidden" name="widget_name" value="">
-											<input type="hidden" name="widget_number" value="">
-											<input type="hidden" name="form_id"
-												   value="c184b11504">
-											<input type="hidden" id="stickyelements-page-link" name="stickyelements-page-link" value="https://www.licagentpune.com/pm-vaya-vandana-yojana-pension-scheme" />
+											
 										</form>
 										<p class="mse-form-success-message" id="mse-form-error" style="display:none;"></p>
 									</div>
@@ -1965,14 +1948,14 @@ tdBlocksArray.push(block_tdi_10_6aa);
 																							</style>
 																					<span class="mystickyelements-social-icon social-whatsapp"
 											  style="background: #26D367" >
-																							<a href="https://api.whatsapp.com/send?phone=919768187224"   target="_blank" rel="noopener" >
+																							<a href="https://api.whatsapp.com/send?phone=9949346104"   target="_blank" rel="noopener" >
 																											<i class="fab fa-whatsapp" ></i>
 													<span class='mystickyelements-icon-below-text' style=''>WhatsApp</span>												</a>
 																					</span>
 
 																			<span class="mystickyelements-social-text " style= "background: #26D367;">
-																						<a href="https://api.whatsapp.com/send?phone=919768187224"  target="_blank" rel="noopener"  >
-											WhatsApp																							</a>
+																						<a href="https://api.whatsapp.com/send?phone=919949346104"  target="_blank" rel="noopener"  >
+											WhatsApp1234																							</a>
 																				</span>
 																		</li>
 

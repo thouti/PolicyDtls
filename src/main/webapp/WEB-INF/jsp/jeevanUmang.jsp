@@ -7,7 +7,7 @@
     <title>LIC Agent Hyderabad</title>
     <meta charset="UTF-8" /> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="pingback" href="https://www.licagentpune.com/xmlrpc.php" />
+   
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
     <link rel="icon" type="image/JPG" href="images/DSC05314.JPG"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="images/DSC05314.JPG"/><link rel="apple-touch-icon-precomposed" sizes="120x120" href="images/DSC05314.JPG"/><link rel="apple-touch-icon-precomposed" sizes="152x152" href="images/DSC05314.JPG"/><link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/DSC05314.JPG"/><link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/DSC05314.JPG"/>
 <!--  <link rel="icon" type="image/png" href="images/lic-ag-pune.png"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-76.png"/><link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-120.png"/><link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-155.png"/><link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-114.png"/><link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-144.png"/> -->

@@ -6,11 +6,10 @@
     <title>LIC Jeevan Shanti - Single Premium Pension Plan &raquo; LIC Agent Hyderabad</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="pingback" href="https://www.licagentpune.com/xmlrpc.php" />
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-<link rel="icon" type="image/png" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ag-pune.png"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-76.png"/><link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-120.png"/><link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-155.png"/><link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-114.png"/><link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-144.png"/>
+<link rel="icon" type="image/png" href="../images/lic Agent.jpg"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="../images/lic Agent.jpg"/><link rel="apple-touch-icon-precomposed" sizes="120x120" href="../images/lic Agent.jpg"/><link rel="apple-touch-icon-precomposed" sizes="152x152" href="../images/lic Agent.jpg"/><link rel="apple-touch-icon-precomposed" sizes="114x114" href="../images/lic Agent.jpg"/><link rel="apple-touch-icon-precomposed" sizes="144x144" href="../images/lic Agent.jpg"/>
 	<!-- This site is optimized with the Yoast SEO Premium plugin v16.1 - https://yoast.com/wordpress/plugins/seo/ -->
-	<link rel="canonical" href="https://www.licagentpune.com/lic-jeevan-shanti-single-premium-pension-plan" />
+	<link rel="canonical" href="/jeevan_shanti_single_premium_plan" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="LIC Jeevan Shanti - Single Premium Pension Plan &raquo; LIC Agent Hyderabad" />
@@ -19,7 +18,7 @@
 	<meta property="og:site_name" content="LIC Agent Hyderabad" />
 	<meta property="article:published_time" content="2020-07-04T03:44:27+00:00" />
 	<meta property="article:modified_time" content="2020-07-07T17:34:31+00:00" />
-	<meta property="og:image" content="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-jeevan-shanti.jpg" />
+	<meta property="og:image" content="../images/lic-jeevan-shanti-218x150.jpg" />
 	<meta property="og:image:width" content="1200" />
 	<meta property="og:image:height" content="675" />
 	<meta name="twitter:card" content="summary_large_image" />
@@ -32,14 +31,11 @@
 
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; Feed" href="https://www.licagentpune.com/feed" />
-<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; Comments Feed" href="https://www.licagentpune.com/comments/feed" />
-<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; LIC Jeevan Shanti &#8211; Single Premium Pension Plan Comments Feed" href="https://www.licagentpune.com/lic-jeevan-shanti-single-premium-pension-plan/feed" />
-<script type="text/javascript">
+<!-- <script type="text/javascript">
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.licagentpune.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
 /*! This file is auto-generated */
 !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
-</script>
+</script> -->
 <style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -91,22 +87,20 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 
 <script src="js/818c0.js"></script>
-
-
-<link rel="https://api.w.org/" href="https://www.licagentpune.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.licagentpune.com/wp-json/wp/v2/posts/357" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.licagentpune.com/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.licagentpune.com/wp-includes/wlwmanifest.xml" /> 
+<!-- <link rel="https://api.w.org/" href="https://www.licagentpune.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.licagentpune.com/wp-json/wp/v2/posts/357" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.licagentpune.com/xmlrpc.php?rsd" /> -->
+<!-- <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.licagentpune.com/wp-includes/wlwmanifest.xml" />  -->
 <meta name="generator" content="WordPress 6.0.3" />
-<!--  <link rel='shortlink' href='https://www.licagentpune.com/?p=357' /> -->
+<!--  <link rel='shortlink' href='https://www.licagentpune.com/?p=357' /> 
 <link rel="alternate" type="application/json+oembed" href="https://www.licagentpune.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.licagentpune.com%2Flic-jeevan-shanti-single-premium-pension-plan" />
-<link rel="alternate" type="text/xml+oembed" href="https://www.licagentpune.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.licagentpune.com%2Flic-jeevan-shanti-single-premium-pension-plan&#038;format=xml" />
-<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
+<link rel="alternate" type="text/xml+oembed" href="https://www.licagentpune.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.licagentpune.com%2Flic-jeevan-shanti-single-premium-pension-plan&#038;format=xml" /> -->
+<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]
         <script>
         window.tdb_globals = {"wpRestNonce":"6c73b3d913","wpRestUrl":"https:\/\/www.licagentpune.com\/wp-json\/","permalinkStructure":"\/%postname%","isAjax":false,"isAdminBarShowing":false,"autoloadScrollPercent":50,"postAutoloadStatus":"on","origPostEditUrl":null};
     </script>
     			<script>
 				window.tdwGlobal = {"adminUrl":"https:\/\/www.licagentpune.com\/wp-admin\/","wpRestNonce":"6c73b3d913","wpRestUrl":"https:\/\/www.licagentpune.com\/wp-json\/","permalinkStructure":"\/%postname%"};
 			</script>
-			
+			-->
 <!-- JS generated by theme -->
 
 <script>
@@ -214,8 +208,6 @@ var tds_animation_stack=true;
 var td_animation_stack_specific_selectors=".entry-thumb, img";
 var td_animation_stack_general_selectors=".td-animation-stack img, .td-animation-stack .entry-thumb, .post img";
 var tdc_is_installed="yes";
-var td_ajax_url="https:\/\/www.licagentpune.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=10.3.4";
-var td_get_template_directory_uri="https:\/\/www.licagentpune.com\/wp-content\/plugins\/td-composer\/legacy\/common";
 var tds_snap_menu="snap";
 var tds_logo_on_sticky="";
 var tds_header_style="3";
@@ -526,7 +518,7 @@ var td_ad_background_click_target="";
     
     .td-menu-background,
     .td-search-background {
-        background-image: url('http://localhost/licpune/wp-content/uploads/2020/06/lic-agent-image-350x350-1.jpeg');
+        background-image: url('../images/lic Agent.jpg');
     }
 
     
@@ -599,7 +591,7 @@ var td_ad_background_click_target="";
 
     
     .white-popup-block:before {
-        background-image: url('http://localhost/licpune/wp-content/uploads/2020/06/hero-bg.jpg');
+        background-image: url('../images/lic Agent.jpg');
     }
 
     
@@ -1230,7 +1222,7 @@ var td_ad_background_click_target="";
     
     .td-menu-background,
     .td-search-background {
-        background-image: url('http://localhost/licpune/wp-content/uploads/2020/06/lic-agent-image-350x350-1.jpeg');
+        background-image: url('../images/lic Agent.jpg');
     }
 
     
@@ -1303,7 +1295,7 @@ var td_ad_background_click_target="";
 
     
     .white-popup-block:before {
-        background-image: url('http://localhost/licpune/wp-content/uploads/2020/06/hero-bg.jpg');
+        background-image: url('../images/lic Agent.jpg');
     }
 
     
@@ -1714,120 +1706,7 @@ var td_ad_background_click_target="";
 
         <div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
 
-    <div class="td-menu-background"></div>
-<div id="td-mobile-nav">
-    <div class="td-mobile-container">
-        <!-- mobile menu top section -->
-        <div class="td-menu-socials-wrap">
-            <!-- socials -->
-            <div class="td-menu-socials">
-                
-        <span class="td-social-icon-wrap">
-            <a target="_blank" href="https://www.licagentpune.com" title="Facebook">
-                <i class="td-icon-font td-icon-facebook"></i>
-            </a>
-        </span>
-        <span class="td-social-icon-wrap">
-            <a target="_blank" href="https://www.licagentpune.com" title="Instagram">
-                <i class="td-icon-font td-icon-instagram"></i>
-            </a>
-        </span>
-        <span class="td-social-icon-wrap">
-            <a target="_blank" href="https://www.licagentpune.com" title="Linkedin">
-                <i class="td-icon-font td-icon-linkedin"></i>
-            </a>
-        </span>
-        <span class="td-social-icon-wrap">
-            <a target="_blank" href="https://www.licagentpune.com" title="Twitter">
-                <i class="td-icon-font td-icon-twitter"></i>
-            </a>
-        </span>            </div>
-            <!-- close button -->
-            <div class="td-mobile-close">
-                <a href="#"><i class="td-icon-close-mobile"></i></a>
-            </div>
-        </div>
-
-        <!-- login section -->
-        
-        <!-- menu section -->
-        <div class="td-mobile-content">
-            <div class="menu-main-menu-container"><ul id="menu-main-menu" class="td-mobile-main-menu"><li id="menu-item-351" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-first menu-item-351"><a href="/pensionplans">Pension Plans</a></li>
-<li id="menu-item-352" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-352"><a href="https://www.licagentpune.com/lic/child-plans">Child Plans</a></li>
-<li id="menu-item-353" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-353"><a href="https://www.licagentpune.com/lic/money-back-plans">Money Back Plans</a></li>
-<li id="menu-item-354" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-354"><a href="https://www.licagentpune.com/lic/whole-life-plans">Whole Life Plans</a></li>
-<li id="menu-item-355" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-355"><a href="https://www.licagentpune.com/lic/lic-term-plans">Term Plans</a></li>
-<li id="menu-item-356" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-356"><a href="https://www.licagentpune.com/lic/endowment-plans">Endowment Plans</a></li>
-</ul></div>        </div>
-    </div>
-
-    <!-- register/login section -->
-            <div id="login-form-mobile" class="td-register-section">
-            
-            <div id="td-login-mob" class="td-login-animation td-login-hide-mob">
-            	<!-- close button -->
-	            <div class="td-login-close">
-	                <a href="#" class="td-back-button"><i class="td-icon-read-down"></i></a>
-	                <div class="td-login-title">Sign in</div>
-	                <!-- close button -->
-		            <div class="td-mobile-close">
-		                <a href="#"><i class="td-icon-close-mobile"></i></a>
-		            </div>
-	            </div>
-	            <div class="td-login-form-wrap">
-	                <div class="td-login-panel-title"><span>Welcome!</span>Log into your account</div>
-	                <div class="td_display_err"></div>
-	                <div class="td-login-inputs"><input class="td-login-input" type="text" name="login_email" id="login_email-mob" value="" required><label>your username</label></div>
-	                <div class="td-login-inputs"><input class="td-login-input" type="password" name="login_pass" id="login_pass-mob" value="" required><label>your password</label></div>
-	                <input type="button" name="login_button" id="login_button-mob" class="td-login-button" value="LOG IN">
-	                <div class="td-login-info-text">
-	                <a href="#" id="forgot-pass-link-mob">Forgot your password?</a>
-	                </div>
-	                <div class="td-login-register-link">
-	                
-	                </div>
-	                
-	                <div class="td-login-info-text"><a class="privacy-policy-link" href="https://www.licagentpune.com/privacy-policy">Privacy Policy</a></div>
-
-                </div>
-            </div>
-
-            
-            
-            
-            
-            <div id="td-forgot-pass-mob" class="td-login-animation td-login-hide-mob">
-                <!-- close button -->
-	            <div class="td-forgot-pass-close">
-	                <a href="#" class="td-back-button"><i class="td-icon-read-down"></i></a>
-	                <div class="td-login-title">Password recovery</div>
-	            </div>
-	            <div class="td-login-form-wrap">
-	                <div class="td-login-panel-title">Recover your password</div>
-	                <div class="td_display_err"></div>
-	                <div class="td-login-inputs"><input class="td-login-input" type="text" name="forgot_email" id="forgot_email-mob" value="" required><label>your email</label></div>
-	                <input type="button" name="forgot_button" id="forgot_button-mob" class="td-login-button" value="Send My Pass">
-                </div>
-            </div>
-        </div>
-    </div>    <div class="td-search-background"></div>
-<div class="td-search-wrap-mob">
-	<div class="td-drop-down-search">
-		<form method="get" class="td-search-form" action="https://www.licagentpune.com/">
-			<!-- close button -->
-			<div class="td-search-close">
-				<a href="#"><i class="td-icon-close-mobile"></i></a>
-			</div>
-			<div role="search" class="td-search-input">
-				<span>Search</span>
-				<input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off" />
-			</div>
-		</form>
-		<div id="td-aj-search-mob" class="td-ajax-search-flex"></div>
-	</div>
-</div>
-
-    <div id="td-outer-wrap" class="td-theme-wrap">
+        <div id="td-outer-wrap" class="td-theme-wrap">
     
         
             <div class="tdc-header-wrap ">
@@ -1847,42 +1726,6 @@ Header style 3
         <div class="td-header-sp-top-widget">
     
     </div> 
-    <div class="td-header-sp-top-widget">
-       </div>
-
-<!-- LOGIN MODAL -->
-
-                <div  id="login-form" class="white-popup-block mfp-hide mfp-with-anim">
-                    <div class="td-login-wrap">
-                        <a href="#" class="td-back-button"><i class="td-icon-modal-back"></i></a>
-                        <div id="td-login-div" class="td-login-form-div td-display-block">
-                            <div class="td-login-panel-title">Sign in</div>
-                            <div class="td-login-panel-descr">Welcome! Log into your account</div>
-                            <div class="td_display_err"></div>
-                            <div class="td-login-inputs"><input class="td-login-input" type="text" name="login_email" id="login_email" value="" required><label>your username</label></div>
-	                        <div class="td-login-inputs"><input class="td-login-input" type="password" name="login_pass" id="login_pass" value="" required><label>your password</label></div>
-                            <input type="button" name="login_button" id="login_button" class="wpb_button btn td-login-button" value="Login">
-                            <div class="td-login-info-text"><a href="#" id="forgot-pass-link">Forgot your password? Get help</a></div>
-                            
-                            
-                            
-                            <div class="td-login-info-text"><a class="privacy-policy-link" href="https://www.licagentpune.com/privacy-policy">Privacy Policy</a></div>
-                        </div>
-
-                        
-
-                         <div id="td-forgot-pass-div" class="td-login-form-div td-display-none">
-                            <div class="td-login-panel-title">Password recovery</div>
-                            <div class="td-login-panel-descr">Recover your password</div>
-                            <div class="td_display_err"></div>
-                            <div class="td-login-inputs"><input class="td-login-input" type="text" name="forgot_email" id="forgot_email" value="" required><label>your email</label></div>
-                            <input type="button" name="forgot_button" id="forgot_button" class="wpb_button btn td-login-button" value="Send My Password">
-                            <div class="td-login-info-text">A password will be e-mailed to you.</div>
-                        </div>
-                        
-                        
-                    </div>
-                </div>
                         </div>
     </div>
 

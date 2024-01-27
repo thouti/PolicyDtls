@@ -2,7 +2,7 @@ package com.licagent;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-// this is main class for Spring boot create
+// this is main class for Spring boot create 123
 @SpringBootApplication
 public class LicAgentInfoApplication {
 

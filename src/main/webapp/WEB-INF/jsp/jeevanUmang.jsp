@@ -1735,18 +1735,6 @@ var td_ad_background_click_target="";
                 <a href="#"><i class="td-icon-close-mobile"></i></a>
             </div>
         </div>
-
-        <!-- login section -->
-        
-        <!-- menu section -->
-        <div class="td-mobile-content">
-            <div class="menu-main-menu-container"><ul id="menu-main-menu" class="td-mobile-main-menu"><li id="menu-item-351" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-first menu-item-351"><a href="https://www.licagentpune.com/lic/pension-plans">Pension Plans</a></li>
-<li id="menu-item-352" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-352"><a href="https://www.licagentpune.com/lic/child-plans">Child Plans</a></li>
-<li id="menu-item-353" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-353"><a href="https://www.licagentpune.com/lic/money-back-plans">Money Back Plans</a></li>
-<li id="menu-item-354" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-354"><a href="https://www.licagentpune.com/lic/whole-life-plans">Whole Life Plans</a></li>
-<li id="menu-item-355" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-355"><a href="https://www.licagentpune.com/lic/lic-term-plans">Term Plans</a></li>
-<li id="menu-item-356" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-356"><a href="https://www.licagentpune.com/lic/endowment-plans">Endowment Plans</a></li>
-</ul></div>        </div>
     </div>
 
     <!-- register/login section -->

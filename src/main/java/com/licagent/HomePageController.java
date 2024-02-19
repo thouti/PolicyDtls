@@ -1,5 +1,5 @@
 package com.licagent;
-
+//this java
 
 import javax.servlet.http.HttpSession;
 
@@ -10,11 +10,10 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
 
-
-//https://www.licagentpune.com/wp-json   base code for this application
-//https://www.licagentpune.com/wp-content/cache/minify all css and js files
 @Controller
+@RestController
 public class HomePageController {
 	private static final Logger logger = LogManager.getLogger(HomePageController.class);
 	@GetMapping(value = "/")

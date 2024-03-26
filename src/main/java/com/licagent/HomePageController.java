@@ -6,14 +6,17 @@ import javax.servlet.http.HttpSession;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 @Controller
-@RestController
+//@RestController
 public class HomePageController {
 	private static final Logger logger = LogManager.getLogger(HomePageController.class);
 	@GetMapping(value = "/")
@@ -146,12 +149,16 @@ public String wholelifeplans(HttpSession session) {
 		logger.info("Entered into  aboutAgent");
 		return "aboutagent";
 	}
+	@PostMapping("/postData")
+	//@RequestMapping(value="/postData",method=RequestMethod.POST)
 	
-	@RequestMapping(value="/getdata",method=RequestMethod.POST)
-	public String userLogin(@RequestParam("name") String name)
+	public String userLogin(Model model)
 			{
-		System.out.println("name===="+name);
-				return name;
+		model.addAttribute("user",new User());
+		System.out.println("name====");
+		//model.addAttribute("user",user);
+		
+				return "";
 		
 			}
 	

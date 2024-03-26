@@ -1722,13 +1722,12 @@ Header style 3
         <div class="td-container td-header-row td-header-top-menu">
             
     <div class="top-bar-style-1">
-<jsp:include page="../jsp/Heder.jsp"></jsp:include></div>
+<%-- <jsp:include page="../jsp/Heder.jsp"></jsp:include></div> --%>
         <div class="td-header-sp-top-widget">
     
     </div> 
                         </div>
     </div>
-
 <jsp:include page="../jsp/banner.jsp"></jsp:include>
 
     <div class="td-header-menu-wrap-full td-container-wrap ">

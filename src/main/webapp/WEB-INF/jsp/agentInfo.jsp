@@ -9,7 +9,7 @@
     <link rel="pingback" href="#" />
     <!--  <link rel="pingback" href="https://www.licagentpune.com/xmlrpc.php" />  -->
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-<link rel="icon" type="image/png" href="images/DSC05314.JPG"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-76.png"/><link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-120.png"/><link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-155.png"/><link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-114.png"/><link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-144.png"/>
+<link rel="icon" type="image/png" href="images/DSC05314.JPG"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="images/DSC05314.JPG"/><link rel="apple-touch-icon-precomposed" sizes="120x120" href="images/DSC05314.JPG"/><link rel="apple-touch-icon-precomposed" sizes="152x152" href="images/DSC05314.JPG"/><link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/DSC05314.JPG"/><link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/DSC05314.JPG"/>
 	<!-- This site is optimized with the Yoast SEO Premium plugin v16.1 - https://yoast.com/wordpress/plugins/seo/ -->
 	<link rel="canonical" href="/" />
 	<meta property="og:locale" content="en_US" />
@@ -94,7 +94,6 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel="https://api.w.org/" href="https://www.licagentpune.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.licagentpune.com/wp-json/wp/v2/pages/120" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.licagentpune.com/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.licagentpune.com/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 6.0.2" />
-<link rel='shortlink' href='https://www.licagentpune.com/' />
 <link rel="alternate" type="application/json+oembed" href="https://www.licagentpune.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.licagentpune.com%2F" />
 <link rel="alternate" type="text/xml+oembed" href="https://www.licagentpune.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.licagentpune.com%2F&#038;format=xml" />
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
@@ -1746,7 +1745,7 @@ var td_ad_background_click_target="";
         <div class="td-container td-header-row td-header-top-menu">
     <div class="top-bar-style-1">
 <div class="td-header-sp-top-menu">
-<jsp:include page="../jsp/Heder.jsp"></jsp:include>
+<%-- <jsp:include page="../jsp/Heder.jsp"></jsp:include> --%>
 </div>
         <div class="td-header-sp-top-widget">
     </div>    </div>

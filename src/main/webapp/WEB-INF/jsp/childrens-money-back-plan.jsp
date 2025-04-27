@@ -6,36 +6,27 @@
     <title>New Children's Money Back &raquo; LIC Agent Hyderabad</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="pingback" href="https://www.licagentpune.com/xmlrpc.php" />
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-<link rel="icon" type="image/png" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ag-pune.png"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-76.png"/><link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-120.png"/><link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-155.png"/><link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-114.png"/><link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-144.png"/>
+<link rel="icon" type="image/png" href="images/lic Agent.jpg"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="images/lic Agent.jpg"/><link rel="apple-touch-icon-precomposed" sizes="120x120" href="images/lic Agent.jpg"/><link rel="apple-touch-icon-precomposed" sizes="152x152" href="images/lic Agent.jpg"/><link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/lic Agent.jpg"/><link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/lic Agent.jpg"/>
 	<!-- This site is optimized with the Yoast SEO Premium plugin v16.1 - https://yoast.com/wordpress/plugins/seo/ -->
-	<link rel="canonical" href="https://www.licagentpune.com/lic-new-childrens-money-back-plan" />
+	<link rel="canonical" href="/childrens-money-back-plans" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="New Children’s Money Back &raquo; LIC Agent Hyderabad" />
 	<meta property="og:description" content="LIC&#8217;s New Children’s Money Back Plan is a insurance cum investment plan for the future of the child which can be used for securing the financial requirements of a child when they complete 25 years age. It is a participating plan and so it is is eligible for LIC&#8217;s bonus depending on the performance of [&hellip;]" />
-	<meta property="og:url" content="https://www.licagentpune.com/lic-new-childrens-money-back-plan" />
-	<meta property="og:site_name" content="LIC Agent Hyderabad" />
-	<meta property="article:published_time" content="2020-07-05T06:11:37+00:00" />
-	<meta property="article:modified_time" content="2020-07-05T17:17:25+00:00" />
-	<meta property="og:image" content="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-childrens-money-back.jpg" />
+	<meta property="og:url" content="/childrens-money-back-plans">
+	<meta property="og:image" content="images/lic-childrens-money-back.jpg" />
 	<meta property="og:image:width" content="1200" />
 	<meta property="og:image:height" content="675" />
-	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:label1" content="Written by">
-	<meta name="twitter:data1" content="LICAgentPune">
-	<meta name="twitter:label2" content="Est. reading time">
-	<meta name="twitter:data2" content="1 minute">
 	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.licagentpune.com/#organization","name":"LIC Agent Hyderabad","url":"https://www.licagentpune.com/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://www.licagentpune.com/#logo","inLanguage":"en-US","url":"https://www.licagentpune.com/wp-content/uploads/2020/07/lic-agent-140-48.png","contentUrl":"https://www.licagentpune.com/wp-content/uploads/2020/07/lic-agent-140-48.png","width":140,"height":48,"caption":"LIC Agent Hyderabad"},"image":{"@id":"https://www.licagentpune.com/#logo"}},{"@type":"WebSite","@id":"https://www.licagentpune.com/#website","url":"https://www.licagentpune.com/","name":"LIC Agent Hyderabad","description":"Just another WordPress site","publisher":{"@id":"https://www.licagentpune.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.licagentpune.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.licagentpune.com/lic-new-childrens-money-back-plan#primaryimage","inLanguage":"en-US","url":"https://www.licagentpune.com/wp-content/uploads/2020/07/lic-childrens-money-back.jpg","contentUrl":"https://www.licagentpune.com/wp-content/uploads/2020/07/lic-childrens-money-back.jpg","width":1200,"height":675,"caption":"LIC Children Money Back"},{"@type":["WebPage","FAQPage"],"@id":"https://www.licagentpune.com/lic-new-childrens-money-back-plan#webpage","url":"https://www.licagentpune.com/lic-new-childrens-money-back-plan","name":"New Children\u2019s Money Back &raquo; LIC Agent Hyderabad","isPartOf":{"@id":"https://www.licagentpune.com/#website"},"primaryImageOfPage":{"@id":"https://www.licagentpune.com/lic-new-childrens-money-back-plan#primaryimage"},"datePublished":"2020-07-05T06:11:37+00:00","dateModified":"2020-07-05T17:17:25+00:00","breadcrumb":{"@id":"https://www.licagentpune.com/lic-new-childrens-money-back-plan#breadcrumb"},"mainEntity":[{"@id":"https://www.licagentpune.com/lic-new-childrens-money-back-plan#faq-question-1593929565614"},{"@id":"https://www.licagentpune.com/lic-new-childrens-money-back-plan#faq-question-1593929589850"},{"@id":"https://www.licagentpune.com/lic-new-childrens-money-back-plan#faq-question-1593929657837"}],"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.licagentpune.com/lic-new-childrens-money-back-plan"]}]},{"@type":"BreadcrumbList","@id":"https://www.licagentpune.com/lic-new-childrens-money-back-plan#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.licagentpune.com/","url":"https://www.licagentpune.com/","name":"LIC Agent Hyderabad"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.licagentpune.com/lic/child-plans","url":"https://www.licagentpune.com/lic/child-plans","name":"Child Plans"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://www.licagentpune.com/lic-new-childrens-money-back-plan","url":"https://www.licagentpune.com/lic-new-childrens-money-back-plan","name":"New Children\u2019s Money Back"}}]},{"@type":"Article","@id":"https://www.licagentpune.com/lic-new-childrens-money-back-plan#article","isPartOf":{"@id":"https://www.licagentpune.com/lic-new-childrens-money-back-plan#webpage"},"author":{"@id":"https://www.licagentpune.com/#/schema/person/b1acfe6d3f21b3f2d35e38460c1c069b"},"headline":"New Children\u2019s Money Back","datePublished":"2020-07-05T06:11:37+00:00","dateModified":"2020-07-05T17:17:25+00:00","mainEntityOfPage":{"@id":"https://www.licagentpune.com/lic-new-childrens-money-back-plan#webpage"},"commentCount":0,"publisher":{"@id":"https://www.licagentpune.com/#organization"},"image":{"@id":"https://www.licagentpune.com/lic-new-childrens-money-back-plan#primaryimage"},"articleSection":"Child Plans","inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://www.licagentpune.com/lic-new-childrens-money-back-plan#respond"]}]},{"@type":"Person","@id":"https://www.licagentpune.com/#/schema/person/b1acfe6d3f21b3f2d35e38460c1c069b","name":"LICAgentPune","image":{"@type":"ImageObject","@id":"https://www.licagentpune.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/fb95574270bf2ce912485cd645f067b6?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/fb95574270bf2ce912485cd645f067b6?s=96&d=mm&r=g","caption":"LICAgentPune"},"description":"licagentpune.com provide all of your insurance needs. We are a group of dedicated insurance professionals committed to protecting you, your family members and your business with caring, personalized LIC insurance service.","sameAs":["https://contact.licagentpune.com"]},{"@type":"Question","@id":"https://www.licagentpune.com/lic-new-childrens-money-back-plan#faq-question-1593929565614","position":1,"url":"https://www.licagentpune.com/lic-new-childrens-money-back-plan#faq-question-1593929565614","name":"What is the date of launch of this plan?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"Date of launch is 2nd March, 2015.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.licagentpune.com/lic-new-childrens-money-back-plan#faq-question-1593929589850","position":2,"url":"https://www.licagentpune.com/lic-new-childrens-money-back-plan#faq-question-1593929589850","name":"What is the table number of children's money back plan?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"Table number is 832.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.licagentpune.com/lic-new-childrens-money-back-plan#faq-question-1593929657837","position":3,"url":"https://www.licagentpune.com/lic-new-childrens-money-back-plan#faq-question-1593929657837","name":"Is this plan eligible for bonus?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"Yes. It is a participating plan and so it is is eligible for LIC's bonus","inLanguage":"en-US"},"inLanguage":"en-US"}]}</script>
 	<!-- / Yoast SEO Premium plugin. -->
 
 
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; Feed" href="https://www.licagentpune.com/feed" />
-<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; Comments Feed" href="https://www.licagentpune.com/comments/feed" />
-<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; New Children’s Money Back Comments Feed" href="https://www.licagentpune.com/lic-new-childrens-money-back-plan/feed" />
+<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; Feed" href="files/feed" />
+<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; Comments Feed" href="files/feed" />
+<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; New Children’s Money Back Comments Feed" href="files/feed" />
 <script type="text/javascript">
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.licagentpune.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
 /*! This file is auto-generated */
@@ -94,26 +85,18 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <script src="js/818c0.js"></script>
 
 
-<link rel="https://api.w.org/" href="https://www.licagentpune.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.licagentpune.com/wp-json/wp/v2/posts/370" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.licagentpune.com/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.licagentpune.com/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 6.0.3" />
-<link rel='shortlink' href='https://www.licagentpune.com/?p=370' />
-<link rel="alternate" type="application/json+oembed" href="https://www.licagentpune.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.licagentpune.com%2Flic-new-childrens-money-back-plan" />
-<link rel="alternate" type="text/xml+oembed" href="https://www.licagentpune.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.licagentpune.com%2Flic-new-childrens-money-back-plan&#038;format=xml" />
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-        <script>
+       <!--  <script>
         window.tdb_globals = {"wpRestNonce":"27c849a5cc","wpRestUrl":"https:\/\/www.licagentpune.com\/wp-json\/","permalinkStructure":"\/%postname%","isAjax":false,"isAdminBarShowing":false,"autoloadScrollPercent":50,"postAutoloadStatus":"on","origPostEditUrl":null};
     </script>
     			<script>
 				window.tdwGlobal = {"adminUrl":"https:\/\/www.licagentpune.com\/wp-admin\/","wpRestNonce":"27c849a5cc","wpRestUrl":"https:\/\/www.licagentpune.com\/wp-json\/","permalinkStructure":"\/%postname%"};
 			</script>
-			
+			 -->
 <!-- JS generated by theme -->
 
 <script>
-    
-    
-
 	    var tdBlocksArray = []; //here we store all the items for the current page
 
 	    //td_block class - each ajax block uses a object of this class for requests
@@ -207,16 +190,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
             };
         })();
 
-    
-    
 var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
 var td_animation_stack_effect="type0";
 var tds_animation_stack=true;
 var td_animation_stack_specific_selectors=".entry-thumb, img";
 var td_animation_stack_general_selectors=".td-animation-stack img, .td-animation-stack .entry-thumb, .post img";
 var tdc_is_installed="yes";
-var td_ajax_url="https:\/\/www.licagentpune.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=10.3.4";
-var td_get_template_directory_uri="https:\/\/www.licagentpune.com\/wp-content\/plugins\/td-composer\/legacy\/common";
 var tds_snap_menu="snap";
 var tds_logo_on_sticky="";
 var tds_header_style="3";
@@ -1953,7 +1932,7 @@ Header style 3
 <!-- /wp:button -->
 
 <!-- wp:button {"backgroundColor":"vivid-green-cyan","borderRadius":11,"className":"is-style-round"} -->
-<!-- <div class="wp-block-button is-style-round"><a class="wp-block-button__link has-background has-vivid-green-cyan-background-color" href="https://wa.me/919768187224?text=I'm%20interested%20in%20your%20insurance%20Services" style="border-radius:11px">💬 WhatsApp</a></div>  -->
+<!-- <div class="wp-block-button is-style-round"><a class="wp-block-button__link has-background has-vivid-green-cyan-background-color" href="https://wa.me/9949346104?text=I'm%20interested%20in%20your%20insurance%20Services" style="border-radius:11px">💬 WhatsApp</a></div>  -->
 <!-- /wp:button --></div></div>
 <p>LIC&#8217;s New Children's Money Back Plan is a insurance cum investment plan for the future of the child which can be used for securing the financial requirements of a child when they complete 25 years age. It is a participating plan and so it is is eligible for LIC&#8217;s bonus depending on the performance of LIC.</p>
 
@@ -1989,7 +1968,7 @@ Header style 3
 <!-- /wp:button -->
 
 <!-- wp:button {"backgroundColor":"vivid-green-cyan","borderRadius":11,"className":"is-style-round"} -->
-<!-- <div class="wp-block-button is-style-round"><a class="wp-block-button__link has-background has-vivid-green-cyan-background-color" href="https://wa.me/919768187224?text=I'm%20interested%20in%20your%20insurance%20Services" style="border-radius:11px">💬 WhatsApp</a></div> -->
+<!-- <div class="wp-block-button is-style-round"><a class="wp-block-button__link has-background has-vivid-green-cyan-background-color" href="https://wa.me/9949346104?text=I'm%20interested%20in%20your%20insurance%20Services" style="border-radius:11px">💬 WhatsApp</a></div> -->
 <!-- /wp:button --></div></div>        </div>
 
         <footer>
@@ -1997,7 +1976,7 @@ Header style 3
             <div class="td-post-source-tags">
                 <!-- source via -->                <!-- tags -->            </div>
 
-                        <!-- next prev -->            <!-- author box --><div class="td-author-name vcard author" style="display: none"><span class="fn"><a href="https://www.licagentpune.com/author/licadmin">LICAgentPune</a></span></div>            <!-- meta -->        </footer>
+                        <!-- next prev -->            <!-- author box -->         <!-- meta -->        </footer>
 
     </article> <!-- /.post -->
 
@@ -2047,7 +2026,7 @@ tdBlocksArray.push(block_tdi_10_53f);
                 <h3 class="entry-title td-module-title"><a href="/jeevan-tarun-plan" rel="bookmark" title="LIC Jeevan Tarun Plan">LIC Jeevan Tarun Plan</a></h3>            </div>
         </div>
         
-	</div> <!-- ./td-related-span4 --></div><!--./row-fluid--></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-tdi_10_53f" data-td_block_id="tdi_10_53f"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page ajax-page-disabled" id="next-page-tdi_10_53f" data-td_block_id="tdi_10_53f"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> <!-- ./block -->
+	</div> <!-- ./td-related-span4 --></div><!--./row-fluid--></div></div> <!-- ./block -->
                                 </div>
                         </div>
                         <div class="td-pb-span4 td-main-sidebar" role="complementary">
@@ -2088,7 +2067,7 @@ tdBlocksArray.push(block_tdi_10_53f);
 </div><!--close td-outer-wrap-->
 
 
-				<div class="mystickyelements-fixed mystickyelements-position-right mystickyelements-position-mobile-bottom mystickyelements-on-hover mystickyelements-size-large mystickyelements-mobile-size-large mystickyelements-entry-effect-fade mystickyelements-templates-default"  data-custom-position="">
+				<!-- <div class="mystickyelements-fixed mystickyelements-position-right mystickyelements-position-mobile-bottom mystickyelements-on-hover mystickyelements-size-large mystickyelements-mobile-size-large mystickyelements-entry-effect-fade mystickyelements-templates-default"  data-custom-position="">
 					<div class="mystickyelement-lists-wrap">
 						<ul class="mystickyelements-lists mystickyno-minimize">
 							
@@ -2124,12 +2103,6 @@ tdBlocksArray.push(block_tdi_10_53f);
 																						<input id="stickyelements-submit-form" type="submit" name="contact-form-submit"
 												   value="Submit"
 												   style="background-color: #7761DF;color:#FFFFFF;"/>
-																						<input type="hidden" name="nonce" value="638a40fc58e6b1670004988638a40fc58e73">
-											<input type="hidden" name="widget_name" value="">
-											<input type="hidden" name="widget_number" value="">
-											<input type="hidden" name="form_id"
-												   value="02c7226968">
-											<input type="hidden" id="stickyelements-page-link" name="stickyelements-page-link" value="https://www.licagentpune.com/lic-new-childrens-money-back-plan" />
 										</form>
 										<p class="mse-form-success-message" id="mse-form-error" style="display:none;"></p>
 									</div>
@@ -2140,13 +2113,13 @@ tdBlocksArray.push(block_tdi_10_53f);
 																							</style>
 																					<span class="mystickyelements-social-icon social-whatsapp"
 											  style="background: #26D367" >
-																							<a href="https://api.whatsapp.com/send?phone=919768187224"   target="_blank" rel="noopener" >
+																							<a href="https://api.whatsapp.com/send?phone=9949346104"   target="_blank" rel="noopener" >
 																											<i class="fab fa-whatsapp" ></i>
 													<span class='mystickyelements-icon-below-text' style=''>WhatsApp</span>												</a>
 																					</span>
 
 																			<span class="mystickyelements-social-text " style= "background: #26D367;">
-																						<a href="https://api.whatsapp.com/send?phone=919768187224"  target="_blank" rel="noopener"  >
+																						<a href="https://api.whatsapp.com/send?phone=9949346104"  target="_blank" rel="noopener"  >
 											WhatsApp																							</a>
 																				</span>
 																		</li>
@@ -2159,7 +2132,7 @@ tdBlocksArray.push(block_tdi_10_53f);
 											  style="background: #2a4dea" >
 																							<a href="tel:9949346104"  >
 																											<i class="fa fa-phone" ></i>
-													<span class='mystickyelements-icon-below-text' style=''>Call Now</span>												</a>
+													<span class='mystickyelements-icon-below-text' style=''>Call Now 1234</span>												</a>
 																					</span>
 
 																			<span class="mystickyelements-social-text " style= "background: #2a4dea;">
@@ -2171,7 +2144,7 @@ tdBlocksArray.push(block_tdi_10_53f);
 														</ul>
 
 											</div>
-				</div>
+				</div> -->
 <!-- Custom css from theme panel -->
 <style type="text/css" media="screen">
 /* custom css theme panel */
@@ -2267,11 +2240,11 @@ jQuery(easy_fancybox_auto);
 
 <script src="js/ecadd.js"></script>
 
-<script type='text/javascript' id='mystickyelements-fronted-js-js-extra'>
+<!-- <script type='text/javascript' id='mystickyelements-fronted-js-js-extra'>
 /* <![CDATA[ */
 var mystickyelements = {"ajaxurl":"https:\/\/www.licagentpune.com\/wp-admin\/admin-ajax.php","ajax_nonce":"b7c73a4d70","google_analytics":""};
 /* ]]> */
-</script>
+</script> -->
 
 <script src="js/9516f.js"></script>
 <script>

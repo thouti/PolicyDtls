@@ -75,13 +75,13 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel="stylesheet" href="css/2fdce.css" media="all" />
 <script src="js/818c0.js"></script>
 <meta name="generator" content="WordPress 6.0.3" />
-        <script>
+      <!--   <script>
         window.tdb_globals = {"wpRestNonce":"dd6ee064ea","wpRestUrl":"https:\/\/www.licagentpune.com\/wp-json\/","permalinkStructure":"\/%postname%","isAjax":false,"isAdminBarShowing":false,"autoloadScrollPercent":50,"postAutoloadStatus":"on","origPostEditUrl":null};
     </script>
     			<script>
 				window.tdwGlobal = {"adminUrl":"https:\/\/www.licagentpune.com\/wp-admin\/","wpRestNonce":"dd6ee064ea","wpRestUrl":"https:\/\/www.licagentpune.com\/wp-json\/","permalinkStructure":"\/%postname%"};
 			</script>
-<script>
+<script> -->
 	    var tdBlocksArray = []; //here we store all the items for the current page
 
 	    //td_block class - each ajax block uses a object of this class for requests

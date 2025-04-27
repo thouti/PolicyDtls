@@ -14,7 +14,7 @@
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="LIC Jeevan Shanti - Single Premium Pension Plan &raquo; LIC Agent Hyderabad" />
 	<meta property="og:description" content="India&#8217;s Life Insurance Corporation ( LIC) also offers pension schemes apart from offering term insurance plans and endowment insurance plans. LIC Jeevan Shanti is one of the pension schemes that the country&#8217;s biggest life insurer is offering. LIC Jeevan Shanti plan is a one time premium plan in which the policyholder has an option to [&hellip;]" />
-	<meta property="og:url" content="https://www.licagentpune.com/lic-jeevan-shanti-single-premium-pension-plan" />
+	<meta property="og:url" content="/jeevan-shanti-single-premium-pension-plan" />
 	<meta property="og:site_name" content="LIC Agent Hyderabad" />
 	<meta property="article:published_time" content="2020-07-04T03:44:27+00:00" />
 	<meta property="article:modified_time" content="2020-07-07T17:34:31+00:00" />
@@ -1959,12 +1959,6 @@ tdBlocksArray.push(block_tdi_10_666);
 																						<input id="stickyelements-submit-form" type="submit" name="contact-form-submit"
 												   value="Submit"
 												   style="background-color: #7761DF;color:#FFFFFF;"/>
-																						<input type="hidden" name="nonce" value="63863dead3c7c166974205863863dead3c7f">
-											<input type="hidden" name="widget_name" value="">
-											<input type="hidden" name="widget_number" value="">
-											<input type="hidden" name="form_id"
-												   value="71469af872">
-											<input type="hidden" id="stickyelements-page-link" name="stickyelements-page-link" value="https://www.licagentpune.com/lic-jeevan-shanti-single-premium-pension-plan" />
 										</form>
 										<p class="mse-form-success-message" id="mse-form-error" style="display:none;"></p>
 									</div>
@@ -1975,13 +1969,13 @@ tdBlocksArray.push(block_tdi_10_666);
 																							</style>
 																					<span class="mystickyelements-social-icon social-whatsapp"
 											  style="background: #26D367" >
-																							<a href="https://api.whatsapp.com/send?phone=919768187224"   target="_blank" rel="noopener" >
+																							<a href="https://api.whatsapp.com/send?phone=919949346104"   target="_blank" rel="noopener" >
 																											<i class="fab fa-whatsapp" ></i>
 													<span class='mystickyelements-icon-below-text' style=''>WhatsApp</span>												</a>
 																					</span>
 
 																			<span class="mystickyelements-social-text " style= "background: #26D367;">
-																						<a href="https://api.whatsapp.com/send?phone=919768187224"  target="_blank" rel="noopener"  >
+																						<a href="https://api.whatsapp.com/send?phone=919949346104"  target="_blank" rel="noopener"  >
 											WhatsApp																							</a>
 																				</span>
 																		</li>

@@ -1694,13 +1694,13 @@ var td_ad_background_click_target="";
 <div id="td-mobile-nav">
     <div class="td-mobile-container">
         <!-- mobile menu top section -->
-        <div class="td-menu-socials-wrap">
-            <!-- socials -->
+        <!-- <div class="td-menu-socials-wrap">
+            socials
             <div class="td-menu-socials">
                 
         <span class="td-social-icon-wrap">
             <a target="_blank" href="https://www.licagentpune.com" title="Facebook">
-                <i class="td-icon-font td-icon-facebook"></i>
+                <i class="td-icon-font td-icon-facebook">facebook</i>
             </a>
         </span>
         <span class="td-social-icon-wrap">
@@ -1718,11 +1718,11 @@ var td_ad_background_click_target="";
                 <i class="td-icon-font td-icon-twitter"></i>
             </a>
         </span>            </div>
-            <!-- close button -->
+            close button
             <div class="td-mobile-close">
                 <a href="#"><i class="td-icon-close-mobile"></i></a>
             </div>
-        </div>
+        </div> -->
 
         <!-- login section -->
         

@@ -29,7 +29,7 @@
 	<meta name="twitter:data1" content="LICAgentHyderabad">
 	<meta name="twitter:label2" content="Est. reading time">
 	<meta name="twitter:data2" content="1 minute"> -->
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.licagentpune.com/#organization","name":"LIC Agent Hyderabad","url":"https://www.licagentpune.com/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://www.licagentpune.com/#logo","inLanguage":"en-US","url":"https://www.licagentpune.com/wp-content/uploads/2020/07/lic-agent-140-48.png","contentUrl":"https://www.licagentpune.com/wp-content/uploads/2020/07/lic-agent-140-48.png","width":140,"height":48,"caption":"LIC Agent Hyderabad"},"image":{"@id":"https://www.licagentpune.com/#logo"}},{"@type":"WebSite","@id":"https://www.licagentpune.com/#website","url":"https://www.licagentpune.com/","name":"LIC Agent Hyderabad","description":"Just another WordPress site","publisher":{"@id":"https://www.licagentpune.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.licagentpune.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.licagentpune.com/lic-jeevan-umang#primaryimage","inLanguage":"en-US","url":"images/jeevan-umang.jpg","contentUrl":"images/jeevan-umang.jpg","width":1200,"height":675,"caption":"LIC Jeevan Umang"},{"@type":["WebPage","FAQPage"],"@id":"https://www.licagentpune.com/lic-jeevan-umang#webpage","url":"https://www.licagentpune.com/lic-jeevan-umang","name":"LIC Jeevan Umang &raquo; LIC Agent Hyderabad","isPartOf":{"@id":"https://www.licagentpune.com/#website"},"primaryImageOfPage":{"@id":"https://www.licagentpune.com/lic-jeevan-umang#primaryimage"},"datePublished":"2020-07-05T07:09:13+00:00","dateModified":"2020-07-05T21:18:23+00:00","breadcrumb":{"@id":"https://www.licagentpune.com/lic-jeevan-umang#breadcrumb"},"mainEntity":[{"@id":"https://www.licagentpune.com/lic-jeevan-umang#faq-question-1593932669646"},{"@id":"https://www.licagentpune.com/lic-jeevan-umang#faq-question-1593932728963"},{"@id":"https://www.licagentpune.com/lic-jeevan-umang#faq-question-1593932858436"}],"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.licagentpune.com/lic-jeevan-umang"]}]},{"@type":"BreadcrumbList","@id":"https://www.licagentpune.com/lic-jeevan-umang#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.licagentpune.com/","url":"https://www.licagentpune.com/","name":"LIC Agent Hyderabad"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.licagentpune.com/lic/child-plans","url":"https://www.licagentpune.com/lic/child-plans","name":"Child Plans"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://www.licagentpune.com/lic-jeevan-umang","url":"https://www.licagentpune.com/lic-jeevan-umang","name":"LIC Jeevan Umang"}}]},{"@type":"Article","@id":"https://www.licagentpune.com/lic-jeevan-umang#article","isPartOf":{"@id":"https://www.licagentpune.com/lic-jeevan-umang#webpage"},"author":{"@id":"https://www.licagentpune.com/#/schema/person/b1acfe6d3f21b3f2d35e38460c1c069b"},"headline":"LIC Jeevan Umang","datePublished":"2020-07-05T07:09:13+00:00","dateModified":"2020-07-05T21:18:23+00:00","mainEntityOfPage":{"@id":"https://www.licagentpune.com/lic-jeevan-umang#webpage"},"commentCount":0,"publisher":{"@id":"https://www.licagentpune.com/#organization"},"image":{"@id":"https://www.licagentpune.com/lic-jeevan-umang#primaryimage"},"articleSection":"Child Plans,Endowment Plans,Money Back Plans,Pension Plans,Whole Life Plans","inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://www.licagentpune.com/lic-jeevan-umang#respond"]}]},{"@type":"Person","@id":"https://www.licagentpune.com/#/schema/person/b1acfe6d3f21b3f2d35e38460c1c069b","name":"LICAgentPune","image":{"@type":"ImageObject","@id":"https://www.licagentpune.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/fb95574270bf2ce912485cd645f067b6?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/fb95574270bf2ce912485cd645f067b6?s=96&d=mm&r=g","caption":"LICAgentPune"},"description":"licagentpune.com provide all of your insurance needs. We are a group of dedicated insurance professionals committed to protecting you, your family members and your business with caring, personalized LIC insurance service.","sameAs":["https://contact.licagentpune.com"]},{"@type":"Question","@id":"https://www.licagentpune.com/lic-jeevan-umang#faq-question-1593932669646","position":1,"url":"https://www.licagentpune.com/lic-jeevan-umang#faq-question-1593932669646","name":"What kind of policy is this?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"LIC Jeevan umang is an endowment cum whole life money back policy.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.licagentpune.com/lic-jeevan-umang#faq-question-1593932728963","position":2,"url":"https://www.licagentpune.com/lic-jeevan-umang#faq-question-1593932728963","name":"How much survival benefit is paid?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"LIC offers 8% of policy Sum Assured after the premium payment term completed  - till policyholder is  alive or till the age of 100.<br/>","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.licagentpune.com/lic-jeevan-umang#faq-question-1593932858436","position":3,"url":"https://www.licagentpune.com/lic-jeevan-umang#faq-question-1593932858436","name":"Policy loan is available?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"Yes. You will be eligible to get a loan against jeevan umang policy once it acquires a Surrender Value. The loan amount and interest rate would depend on the prevailing at the time of taking the loan.","inLanguage":"en-US"},"inLanguage":"en-US"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"/","name":"LIC Agent Hyderabad","url":"/","sameAs":[],"logo":{"@type":"ImageObject","@id":"/#logo","inLanguage":"en-US","url":"images/lic Agent.jpg","contentUrl":"images/lic Agent.jpg","width":140,"height":48,"caption":"LIC Agent Hyderabad"},"image":{"@id":"/#logo"}},{"@type":"WebSite","@id":"/#website","url":"/","name":"LIC Agent Hyderabad","description":"Just another WordPress site","publisher":{"@id":"/#organization"},"potentialAction":[{"@type":"SearchAction","target":"/","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"/jeevanumang#primaryimage","inLanguage":"en-US","url":"images/jeevan-umang.jpg","contentUrl":"images/jeevan-umang.jpg","width":1200,"height":675,"caption":"LIC Jeevan Umang"},{"@type":["WebPage","FAQPage"],"@id":"/jeevanumang#webpage","url":"/jeevanumang","name":"LIC Jeevan Umang &raquo; LIC Agent Hyderabad","isPartOf":{"@id":"/#website"},"primaryImageOfPage":{"@id":"/jeevanumang#primaryimage"},"datePublished":"2020-07-05T07:09:13+00:00","dateModified":"2020-07-05T21:18:23+00:00","breadcrumb":{"@id":"/jeevanumang#breadcrumb"},"mainEntity":[{"@id":"/jeevanumang#faq-question-1593932669646"},{"@id":"/jeevanumang#faq-question-1593932728963"},{"@id":"/jeevanumang#faq-question-1593932858436"}],"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["/jeevanumang"]}]},{"@type":"BreadcrumbList","@id":"/jeevanumang#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"/","url":"/","name":"LIC Agent Hyderabad"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"/sub/child-plans","url":"/sub/child-plans","name":"Child Plans"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"/jeevanumang","url":"/jeevanumang","name":"LIC Jeevan Umang"}}]},{"@type":"Article","@id":"/jeevanumang#article","isPartOf":{"@id":"/jeevanumang#webpage"},"author":{"@id":"/#/schema/person/b1acfe6d3f21b3f2d35e38460c1c069b"},"headline":"LIC Jeevan Umang","datePublished":"2020-07-05T07:09:13+00:00","dateModified":"2020-07-05T21:18:23+00:00","mainEntityOfPage":{"@id":"/jeevanumang#webpage"},"commentCount":0,"publisher":{"@id":"/#organization"},"image":{"@id":"/jeevanumang#primaryimage"},"articleSection":"Child Plans,Endowment Plans,Money Back Plans,Pension Plans,Whole Life Plans","inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["/jeevanumang#respond"]}]},{"@type":"Person","@id":"/","name":"LICAgentPune","image":{"@type":"ImageObject","@id":"/","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/fb95574270bf2ce912485cd645f067b6?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/fb95574270bf2ce912485cd645f067b6?s=96&d=mm&r=g","caption":"LICAgentPune"},"description":"licagentpune.com provide all of your insurance needs. We are a group of dedicated insurance professionals committed to protecting you, your family members and your business with caring, personalized LIC insurance service.","sameAs":["https://contact.licagentpune.com"]},{"@type":"Question","@id":"/jeevanumang#faq-question-1593932669646","position":1,"url":"/jeevanumang#faq-question-1593932669646","name":"What kind of policy is this?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"LIC Jeevan umang is an endowment cum whole life money back policy.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"/jeevanumang#faq-question-1593932728963","position":2,"url":"/jeevanumang#faq-question-1593932728963","name":"How much survival benefit is paid?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"LIC offers 8% of policy Sum Assured after the premium payment term completed  - till policyholder is  alive or till the age of 100.<br/>","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"/jeevanumang#faq-question-1593932858436","position":3,"url":"/jeevanumang#faq-question-1593932858436","name":"Policy loan is available?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"Yes. You will be eligible to get a loan against jeevan umang policy once it acquires a Surrender Value. The loan amount and interest rate would depend on the prevailing at the time of taking the loan.","inLanguage":"en-US"},"inLanguage":"en-US"}]}</script>
 	<!-- / Yoast SEO Premium plugin. -->
 
 
@@ -37,9 +37,9 @@
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; Feed" href="files/feed" />
 <link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; Comments Feed" href="files/feed" />
-<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; LIC Jeevan Umang Comments Feed" href="https://www.licagentpune.com/lic-jeevan-umang/feed" />
+<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; LIC Jeevan Umang Comments Feed" href="files/feed" />
 <script type="text/javascript">
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.licagentpune.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"/js\/wp-emoji-release.min.js?ver=6.0.3"}};
 /*! This file is auto-generated */
 !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
 </script>
@@ -89,16 +89,16 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel="stylesheet" href="css/2fdce.css" media="all" />
 <script src="js/818c0.js"></script>
 <!--  <link rel="https://api.w.org/" href="https://www.licagentpune.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.licagentpune.com/wp-json/wp/v2/posts/374" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.licagentpune.com/xmlrpc.php?rsd" /> -->
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.licagentpune.com/wp-includes/wlwmanifest.xml" /> 
+<!-- <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.licagentpune.com/wp-includes/wlwmanifest.xml" />  -->
 <meta name="generator" content="WordPress 6.0.3" />
-<link rel="alternate" type="application/json+oembed" href="https://www.licagentpune.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.licagentpune.com%2Flic-jeevan-umang" />
-<link rel="alternate" type="text/xml+oembed" href="https://www.licagentpune.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.licagentpune.com%2Flic-jeevan-umang&#038;format=xml" />
+<!-- <link rel="alternate" type="application/json+oembed" href="https://www.licagentpune.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.licagentpune.com%2Flic-jeevan-umang" /> 
+<link rel="alternate" type="text/xml+oembed" href="https://www.licagentpune.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.licagentpune.com%2Flic-jeevan-umang&#038;format=xml" /> 
 
         <script>
         window.tdb_globals = {"wpRestNonce":"d1b81eb61e","wpRestUrl":"https:\/\/www.licagentpune.com\/wp-json\/","permalinkStructure":"\/%postname%","isAjax":false,"isAdminBarShowing":false,"autoloadScrollPercent":50,"postAutoloadStatus":"on","origPostEditUrl":null};
     </script>
     			<script>
-				window.tdwGlobal = {"adminUrl":"https:\/\/www.licagentpune.com\/wp-admin\/","wpRestNonce":"d1b81eb61e","wpRestUrl":"https:\/\/www.licagentpune.com\/wp-json\/","permalinkStructure":"\/%postname%"};
+				window.tdwGlobal = {"adminUrl":"https:\/\/www.licagentpune.com\/wp-admin\/","wpRestNonce":"d1b81eb61e","wpRestUrl":"https:\/\/www.licagentpune.com\/wp-json\/","permalinkStructure":"\/%postname%"}; -->
 			</script>
 			
 <!-- JS generated by theme -->
@@ -1757,7 +1757,7 @@ var td_ad_background_click_target="";
 	                
 	                </div>
 	                
-	                <div class="td-login-info-text"><a class="privacy-policy-link" href="https://www.licagentpune.com/privacy-policy">Privacy Policy</a></div>
+	                <div class="td-login-info-text"><a class="privacy-policy-link" href="/privacy-policy">Privacy Policy</a></div>
 
                 </div>
             </div>
@@ -1783,7 +1783,7 @@ var td_ad_background_click_target="";
     </div>    <div class="td-search-background"></div>
 <div class="td-search-wrap-mob">
 	<div class="td-drop-down-search">
-		<form method="get" class="td-search-form" action="https://www.licagentpune.com/">
+		<%-- <form method="get" class="td-search-form" action="https://www.licagentpune.com/">
 			<!-- close button -->
 			<div class="td-search-close">
 				<a href="#"><i class="td-icon-close-mobile"></i></a>
@@ -1792,7 +1792,7 @@ var td_ad_background_click_target="";
 				<span>Search</span>
 				<input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off" />
 			</div>
-		</form>
+		</form> --%>
 		<div id="td-aj-search-mob" class="td-ajax-search-flex"></div>
 	</div>
 </div>
@@ -1861,7 +1861,7 @@ Header style 3
 
         
         <div class="td-post-content tagdiv-type">
-            <!-- image --><div class="td-post-featured-image"><img width="696" height="392" class="entry-thumb" src="https://www.licagentpune.com/wp-content/uploads/2020/07/jeevan-umang-696x392.jpg" srcset="https://www.licagentpune.com/wp-content/uploads/2020/07/jeevan-umang-696x392.jpg 696w, https://www.licagentpune.com/wp-content/uploads/2020/07/jeevan-umang-300x169.jpg 300w, https://www.licagentpune.com/wp-content/uploads/2020/07/jeevan-umang-1024x576.jpg 1024w, https://www.licagentpune.com/wp-content/uploads/2020/07/jeevan-umang-768x432.jpg 768w, https://www.licagentpune.com/wp-content/uploads/2020/07/jeevan-umang-125x70.jpg 125w, https://www.licagentpune.com/wp-content/uploads/2020/07/jeevan-umang-75x42.jpg 75w, https://www.licagentpune.com/wp-content/uploads/2020/07/jeevan-umang-1068x601.jpg 1068w, https://www.licagentpune.com/wp-content/uploads/2020/07/jeevan-umang-747x420.jpg 747w, images/jeevan-umang.jpg 1200w" sizes="(max-width: 696px) 100vw, 696px" alt="LIC Jeevan Umang" title="jeevan-umang"/></div>
+            <!-- image --><div class="td-post-featured-image"><img width="696" height="392" class="entry-thumb" src="images/jeevan-umang-696x392.jpg" srcset="images/jeevan-umang-696x392.jpg 696w, images/jeevan-umang-300x169.jpg 300w, images/jeevan-umang-1024x576.jpg 1024w, images/jeevan-umang-768x432.jpg 768w, images/jeevan-umang-125x70.jpg 125w, images/jeevan-umang-75x42.jpg 75w, images/jeevan-umang-1068x601.jpg 1068w, images/jeevan-umang-747x420.jpg 747w, images/jeevan-umang.jpg 1200w" sizes="(max-width: 696px) 100vw, 696px" alt="LIC Jeevan Umang" title="jeevan-umang"/></div>
             <!-- content --><div class="td-a-rec td-a-rec-id-content_top  tdi_8_f33 td_block_template_4">
 <style>
 /* custom css */
@@ -1926,7 +1926,7 @@ Header style 3
             <div class="td-post-source-tags">
                 <!-- source via -->                <!-- tags -->            </div>
 
-                        <!-- next prev -->            <!-- author box --><div class="td-author-name vcard author" style="display: none"><span class="fn"><a href="https://www.licagentpune.com/author/licadmin">LICAgentPune</a></span></div>            <!-- meta -->        </footer>
+                        <!-- next prev -->            <!-- author box --><div class="td-author-name vcard author" style="display: none"><span class="fn"><a href="/licadmin">LICAgentPune</a></span></div>            <!-- meta -->        </footer>
 
     </article> <!-- /.post -->
 
@@ -1949,7 +1949,7 @@ tdBlocksArray.push(block_tdi_10_37d);
 
         <div class="td_module_related_posts td-animation-stack td-meta-info-hide td_mod_related_posts">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="/jeevan_lakshya" rel="bookmark" class="td-image-wrap " title="LIC Jeevan Lakshya" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="" title="LIC Jeevan Lakshya" data-type="image_tag" data-img-url="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-jeevan-lakshya-218x150.jpg"  width="218" height="150" /></a></div>                            </div>
+                <div class="td-module-thumb"><a href="/jeevan_lakshya" rel="bookmark" class="td-image-wrap " title="LIC Jeevan Lakshya" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="" title="LIC Jeevan Lakshya" data-type="image_tag" data-img-url="images/jeevan-lakshya-218x150.jpg"  width="218" height="150" /></a></div>                            </div>
             <div class="item-details">
                 <h3 class="entry-title td-module-title"><a href="/jeevan_lakshya" rel="bookmark" title="LIC Jeevan Lakshya">LIC Jeevan Lakshya</a></h3>            </div>
         </div>
@@ -1960,7 +1960,7 @@ tdBlocksArray.push(block_tdi_10_37d);
 
         <div class="td_module_related_posts td-animation-stack td-meta-info-hide td_mod_related_posts">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="/jeevan-labh" rel="bookmark" class="td-image-wrap " title="LIC Jeevan Labh" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="" title="LIC Jeevan Labh" data-type="image_tag" data-img-url="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-jeevan-labh-218x150.jpg"  width="218" height="150" /></a></div>                            </div>
+                <div class="td-module-thumb"><a href="/jeevan-labh" rel="bookmark" class="td-image-wrap " title="LIC Jeevan Labh" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="" title="LIC Jeevan Labh" data-type="image_tag" data-img-url="images/jeevan-labh-218x150.jpg"  width="218" height="150" /></a></div>                            </div>
             <div class="item-details">
                 <h3 class="entry-title td-module-title"><a href="/jeevan-labh" rel="bookmark" title="LIC Jeevan Labh">LIC Jeevan Labh</a></h3>            </div>
         </div>
@@ -1971,7 +1971,7 @@ tdBlocksArray.push(block_tdi_10_37d);
 
         <div class="td_module_related_posts td-animation-stack td-meta-info-hide td_mod_related_posts">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="/new-jeevan-anand" rel="bookmark" class="td-image-wrap " title="LIC New Jeevan Anand" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="LIC Jeevan Anand" title="LIC New Jeevan Anand" data-type="image_tag" data-img-url="https://www.licagentpune.com/wp-content/uploads/2020/07/jeevan-anand-218x150.jpg"  width="218" height="150" /></a></div>                            </div>
+                <div class="td-module-thumb"><a href="/new-jeevan-anand" rel="bookmark" class="td-image-wrap " title="LIC New Jeevan Anand" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="LIC Jeevan Anand" title="LIC New Jeevan Anand" data-type="image_tag" data-img-url="images/jeevan anand.jpg"  width="218" height="150" /></a></div>                            </div>
             <div class="item-details">
                 <h3 class="entry-title td-module-title"><a href="/new-jeevan-anand" rel="bookmark" title="LIC New Jeevan Anand">LIC New Jeevan Anand</a></h3>            </div>
         </div>
@@ -2037,12 +2037,7 @@ tdBlocksArray.push(block_tdi_10_37d);
 																						<input id="stickyelements-submit-form" type="submit" name="contact-form-submit"
 												   value="Submit"
 												   style="background-color: #7761DF;color:#FFFFFF;"/>
-																						<input type="hidden" name="nonce" value="637530dd968951668624605637530dd96897">
-											<input type="hidden" name="widget_name" value="">
-											<input type="hidden" name="widget_number" value="">
-											<input type="hidden" name="form_id"
-												   value="8db26d740a">
-											<input type="hidden" id="stickyelements-page-link" name="stickyelements-page-link" value="https://www.licagentpune.com/lic-jeevan-umang" />
+											
 										</form>
 										<p class="mse-form-success-message" id="mse-form-error" style="display:none;"></p>
 									</div>
@@ -2180,11 +2175,11 @@ jQuery(easy_fancybox_auto);
 
 <script src="js/ecadd.js"></script>
 
-<script type='text/javascript' id='mystickyelements-fronted-js-js-extra'>
+<!-- <script type='text/javascript' id='mystickyelements-fronted-js-js-extra'>
 /* <![CDATA[ */
 var mystickyelements = {"ajaxurl":"https:\/\/www.licagentpune.com\/wp-admin\/admin-ajax.php","ajax_nonce":"21e4dd59b8","google_analytics":""};
 /* ]]> */
-</script>
+</script> -->
 
 <script src="js/9516f.js"></script>
 

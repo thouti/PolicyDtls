@@ -63,7 +63,7 @@ public class HomePageController {
 	}
 	@GetMapping(value = "/childrens-money-back-plans")
 	public String childrensmoneybackplan(HttpSession session) {
-		logger.info("Entered into jeevan-lakshya plan page");
+		logger.info("Entered into childrens-money-back-plans");
 		return "childrens-money-back-plan";
 	}
 	@GetMapping(value = "/money-back-plan-20-years")

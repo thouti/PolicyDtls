@@ -157,7 +157,7 @@ public String wholelifeplans(HttpSession session) {
 	public String userLogin(Model model)
 			{
 		model.addAttribute("user",new User());
-		System.out.println("name====");
+		System.out.println("name==== test1234 ");
 		//model.addAttribute("user",user);
 		
 				return "";

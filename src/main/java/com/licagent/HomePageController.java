@@ -8,12 +8,7 @@ import org.apache.logging.log4j.Logger;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
 
 @Controller
 //@RestController
@@ -149,6 +144,13 @@ public String wholelifeplans(HttpSession session) {
 		logger.info("Entered into  aboutAgent");
 		return "aboutagent";
 	}
+	
+	/*
+	 * @GetMapping("/greeting") public String greetingForm(Model model) {
+	 * System.out.println("submit===="); model.addAttribute("greeting", new
+	 * Greeting()); return "greeting"; }
+	 */
+	
 	@PostMapping("/postData")
 	//@RequestMapping(value="/postData",method=RequestMethod.POST)
 	

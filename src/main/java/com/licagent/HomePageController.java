@@ -9,7 +9,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
-
+import org.springframework.web.bind.annotation.ModelAttribute;
 @Controller
 //@RestController
 public class HomePageController {
@@ -151,18 +151,21 @@ public String wholelifeplans(HttpSession session) {
 	 * Greeting()); return "greeting"; }
 	 */
 	
-	@PostMapping("/postData")
-	//@RequestMapping(value="/postData",method=RequestMethod.POST)
+	 @GetMapping("/submitForm")
+	    public String showForm(Model model) {
+	        model.addAttribute("user", new User());
+	        System.out.println("==================="+model.getAttribute("name"));
+	        return "";
+	    }
+
 	
-	public String userLogin(Model model)
-			{
-		model.addAttribute("user",new User());
-		System.out.println("name==== test1234 ");
-		//model.addAttribute("user",user);
-		
-				return "";
-		
-			}
+		/*
+		 * @GetMapping("/submitForm") public String showForm(@ModelAttribute User user,
+		 * Model model) { //System.out.println("name==== test1234 ");
+		 * model.addAttribute("user", user);
+		 * System.out.println("name==== test1234 "+user.getName()+"emali==="+user.
+		 * getEmail()); return ""; }
+		 */
 	
 	
 	

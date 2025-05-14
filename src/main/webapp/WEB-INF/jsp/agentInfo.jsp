@@ -1,9 +1,9 @@
 <!doctype html >
 <!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
 <!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html lang="en-US"> <!--<![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US" xmlns:th="http://www.thymeleaf.org"> <!--<![endif]-->
 <head>
-    <title>LIC Agent Hyderabad</title>
+    <title >LIC Agent Hyderabad</title> 
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="pingback" href="#" />
@@ -16,7 +16,7 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Life Insurance Agent &raquo; LIC Agent Hyderabad" />
 	<meta property="og:description" content="LIC Agent Hyderabad offer a wide range of LIC of India insurance products including, but not limited to, Term insurance, Whole life insurance, Pension Plans, Child Plans, Health Insurance. We assist in the entire city of Hyderabad. We have a fully licensed team of professionals who strive to fulfill our customer&#8217;s expectations. We will provide [&hellip;]" />
-	<meta property="og:url" content="https://www.licagentpune.com/" />
+	<meta property="og:url" content="/" /> <!--https://www.licagentpune.com-->
 	<meta property="og:site_name" content="LIC Agent Hyderabad" />
 	<meta property="article:modified_time" content="2020-07-18T05:20:08+00:00" />
 	<meta property="og:image" content="images/home banner.jpg" />
@@ -1797,6 +1797,7 @@ var td_ad_background_click_target="";
 <input type="hidden" name="_wpcf7_container_post" value="0" />
 <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
 </div>
+
 <p><label><span class="wpcf7-form-control-wrap" data-name="your-name"><input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Name *" /></span> </label></p>
 <p><label><span class="wpcf7-form-control-wrap" data-name="your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email Address *" /></span> </label></p>
 <p><label><span class="wpcf7-form-control-wrap" data-name="your-phone"><input type="text" name="your-phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Phone Number *" /></span> </label></p>
@@ -1804,6 +1805,21 @@ var td_ad_background_click_target="";
 <p><button type="submit" class="btn btn-primary">Login
 											</button><input type="submit" value="Submit" class="wpcf7-form-control has-spinner wpcf7-submit" /></p>
 <div class="wpcf7-response-output" aria-hidden="true"></div></form></div>
+<div>
+	<body>
+	    <form action="/submitForm" method="get" th:object="${user}">
+	        <div>
+	            <label for="name">Name:</label>
+	            <input type="text" id="name" th:field="*{name}" />
+	        </div>
+	        <div>
+	            <label for="email">Email:</label>
+	            <input type="email" id="email" th:field="*{email}" />
+	        </div>
+	        <button type="submit">Submit</button>
+	    </form>
+	</body>
+</div>
 </div>
 		</aside>                            </div>
                         </div>

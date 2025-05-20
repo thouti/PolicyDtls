@@ -117,10 +117,10 @@
     <optional>true</optional>
 </dependency>
    <!-- In order to work with JSP/JSTL, we need to add below two dependencies:-->
-   <dependency>
+  <!-- <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-jasper</artifactId>
-</dependency>
+</dependency>-->
 <!-- JSTL for JSP -->
 <dependency>
     <groupId>javax.servlet</groupId>

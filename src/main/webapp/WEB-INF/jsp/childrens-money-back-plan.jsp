@@ -1991,7 +1991,7 @@ block_tdi_10_53f.header_color = "";
 block_tdi_10_53f.ajax_pagination_infinite_stop = "";
 block_tdi_10_53f.max_num_pages = "1";
 tdBlocksArray.push(block_tdi_10_53f);
-</script><h4 class="td-related-title td-block-title"><a id="tdi_11_a56" class="td-related-left td-cur-simple-item" data-td_filter_value="" data-td_block_id="tdi_10_53f" href="#">Related</a><a id="tdi_12_f15" class="td-related-right" data-td_filter_value="td_related_more_from_author" data-td_block_id="tdi_10_53f" href="#">More </a></h4><div id=tdi_10_53f class="td_block_inner">
+</script><!--<h4 class="td-related-title td-block-title"><a id="tdi_11_a56" class="td-related-left td-cur-simple-item" data-td_filter_value="" data-td_block_id="tdi_10_53f" href="#">Related</a><a id="tdi_12_f15" class="td-related-right" data-td_filter_value="td_related_more_from_author" data-td_block_id="tdi_10_53f" href="#">More </a></h4>--><div id=tdi_10_53f class="td_block_inner">
 
 	<div class="td-related-row">
 

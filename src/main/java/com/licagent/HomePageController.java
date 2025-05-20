@@ -10,6 +10,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
+
 @Controller
 //@RestController
 public class HomePageController {
@@ -145,29 +146,10 @@ public String wholelifeplans(HttpSession session) {
 		return "aboutagent";
 	}
 	
-	/*
-	 * @GetMapping("/greeting") public String greetingForm(Model model) {
-	 * System.out.println("submit===="); model.addAttribute("greeting", new
-	 * Greeting()); return "greeting"; }
-	 */
-	
-	 @GetMapping("/submitForm")
-	    public String showForm(Model model) {
+	 @GetMapping("/getdtls")
+	    public String getData(Model model) {
 	        model.addAttribute("user", new User());
 	        System.out.println("==================="+model.getAttribute("name"));
-	        return "";
+	        return "agentInfo";
 	    }
-
-	
-		/*
-		 * @GetMapping("/submitForm") public String showForm(@ModelAttribute User user,
-		 * Model model) { //System.out.println("name==== test1234 ");
-		 * model.addAttribute("user", user);
-		 * System.out.println("name==== test1234 "+user.getName()+"emali==="+user.
-		 * getEmail()); return ""; }
-		 */
-	
-	
-	
-	
 }

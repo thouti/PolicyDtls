@@ -1806,8 +1806,8 @@ var td_ad_background_click_target="";
 											</button><input type="submit" value="Submit" class="wpcf7-form-control has-spinner wpcf7-submit" /></p>
 <div class="wpcf7-response-output" aria-hidden="true"></div></form></div>
 <div>
-	<body>
-	    <form action="/submitForm" method="get" th:object="${user}">
+	
+	    <form  action="/getdtls" method="get" th:object="${user}">
 	        <div>
 	            <label for="name">Name:</label>
 	            <input type="text" id="name" th:field="*{name}" />
@@ -1818,7 +1818,7 @@ var td_ad_background_click_target="";
 	        </div>
 	        <button type="submit">Submit</button>
 	    </form>
-	</body>
+	
 </div>
 </div>
 		</aside>                            </div>

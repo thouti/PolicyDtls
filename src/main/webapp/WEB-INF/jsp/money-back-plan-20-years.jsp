@@ -1736,7 +1736,7 @@ var td_ad_background_click_target="";
 
             <!-- category --><ul class="td-category"><li class="entry-category"><a  href="/sub/money-back-plans">Money Back Plans</a></li></ul>
             <header class="td-post-title">
-                <h1 class="entry-title">New Money Back Plan - 20 Years</h1>
+                <h1 class="entry-title">New Money Back Plan - 20 Years </h1>
                 <div class="td-module-meta-info">
                    </div>
             </header>
@@ -1744,7 +1744,7 @@ var td_ad_background_click_target="";
 
         
         <div class="td-post-content tagdiv-type">
-            <!-- image --><div class="td-post-featured-image"><img width="696" height="392" class="entry-thumb" src="images/money-back-20-696x392.jpg" srcset="images/money-back-20-696x392.jpg 696w, https://www.licagentpune.com/wp-content/uploads/2020/07/money-back-20-300x169.jpg 300w, https://www.licagentpune.com/wp-content/uploads/2020/07/money-back-20-1024x576.jpg 1024w, https://www.licagentpune.com/wp-content/uploads/2020/07/money-back-20-768x432.jpg 768w, https://www.licagentpune.com/wp-content/uploads/2020/07/money-back-20-125x70.jpg 125w, https://www.licagentpune.com/wp-content/uploads/2020/07/money-back-20-75x42.jpg 75w, https://www.licagentpune.com/wp-content/uploads/2020/07/money-back-20-1068x601.jpg 1068w, https://www.licagentpune.com/wp-content/uploads/2020/07/money-back-20-747x420.jpg 747w, https://www.licagentpune.com/wp-content/uploads/2020/07/money-back-20.jpg 1200w" sizes="(max-width: 696px) 100vw, 696px" alt="Money back plan 20 years" title="money-back-20"/></div>
+            <!-- image --><div class="td-post-featured-image"><img width="696" height="392" class="entry-thumb" src="images/money-back-20-696x392.jpg" srcset="images/money-back-20-696x392.jpg 696w, images/money-back-20-696x392.jpg 300w, images/money-back-20-696x392.jpg 1024w, images/money-back-20-696x392.jpg 768w, images/money-back-20-696x392.jpg 125w, images/money-back-20-696x392.jpg 75w, https://www.licagentpune.com/wp-content/uploads/2020/07/money-back-20-1068x601.jpg 1068w, images/money-back-20-696x392.jpg 747w, images/money-back-20-696x392.jpg 1200w" sizes="(max-width: 696px) 100vw, 696px" alt="Money back plan 20 years" title="money-back-20"/></div>
             <!-- content --><div class="td-a-rec td-a-rec-id-content_top  tdi_8_6b2 td_block_template_4">
 <style>
 /* custom css */
@@ -1820,17 +1820,15 @@ tdBlocksArray.push(block_tdi_10_166);
 	<div class="td-related-span4">
         <div class="td_module_related_posts td-animation-stack td-meta-info-hide td_mod_related_posts">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="/jeevanumang" rel="bookmark" class="td-image-wrap " title="LIC Jeevan Umang" ><img class="entry-thumb" src="data:images/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="LIC Jeevan Umang" title="LIC Jeevan Umang" data-type="image_tag" data-img-url="images/jeevan-umang.jpg"  width="218" height="150" /></a></div>                            </div>
-            <div class="item-details">
-                <h3 class="entry-title td-module-title"><a href="/jeevanumang" rel="bookmark" title="LIC Jeevan Umang">LIC Jeevan Umang</a></h3>            </div>
-        </div>
+                <div class="td-module-thumb"></div>                            </div>
+                  </div>
 	</div> <!-- ./td-related-span4 -->
 	<div class="td-related-span4">
         <div class="td_module_related_posts td-animation-stack td-meta-info-hide td_mod_related_posts">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="/money-back-plan-25-years" rel="bookmark" class="td-image-wrap " title="New Money Back Plan - 25 Years" ><img class="entry-thumb" src="data:images/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="Money back plan" title="New Money Back Plan &#8211; 25 Years" data-type="image_tag" data-img-url="images/money-back-25-218x150.jpg"  width="218" height="150" /></a></div>                            </div>
+                <div class="td-module-thumb"></div> </div>
             <div class="item-details">
-                <h3 class="entry-title td-module-title"><a href="/money-back-plan-25-years" rel="bookmark" title="New Money Back Plan - 25 Years">New Money Back Plan - 25 Years</a></h3>            </div>
+                         </div>
         </div>
         
 	</div> </div></div></div> <!-- ./block -->

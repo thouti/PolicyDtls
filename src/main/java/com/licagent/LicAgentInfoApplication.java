@@ -8,7 +8,7 @@ public class LicAgentInfoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LicAgentInfoApplication.class, args);
-		System.out.println("hi wel come rinivas");
+		System.out.println("landing page loaded");
 	}
 
 }

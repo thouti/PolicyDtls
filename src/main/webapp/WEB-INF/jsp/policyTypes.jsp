@@ -132,10 +132,10 @@ tdBlocksArray.push(block_tdi_4_b93);
         </div><div class="td-mega-span">
         <div class="td_module_mega_menu td-animation-stack td-meta-info-hide td_mod_mega_menu">
             <div class="td-module-image">
-                <div class="td-module-thumb"><a href="/money-back-plan-20-years" rel="bookmark" class="td-image-wrap " title="New Money Back Plan – 20 Years" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="Money back plan 20 years" title="New Money Back Plan – 20 Years" data-type="image_tag" data-img-url="../images/money-back-25-218x150.jpg"  width="218" height="150" /></a></div>                            </div>
+                <div class="td-module-thumb"><a href="/money-back-plan-20-years" rel="bookmark" class="td-image-wrap " title="New Money Back Plan – 20 Years" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="Money back plan 20 years" title="New Money Back Plan – 20 Years" data-type="image_tag" data-img-url="../images/money-back-20-696x392.jpg"  width="218" height="150" /></a></div>                            </div>
 
             <div class="item-details">
-                <h3 class="entry-title td-module-title"><a href="/money-back-plan-20-years" rel="bookmark" title="New Money Back Plan – 20 Years">New Money Back Plan – 20 Years</a></h3>            </div>
+                <h3 class="entry-title td-module-title"><a href="/money-back-plan-20-years" rel="bookmark" title="New Money Back Plan – 20 Years">New Money Back Plan- 20 Years</a></h3>            </div>
         </div>
         </div><div class="td-mega-span">
         <div class="td_module_mega_menu td-animation-stack td-meta-info-hide td_mod_mega_menu">

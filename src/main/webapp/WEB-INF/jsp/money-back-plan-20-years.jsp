@@ -1800,7 +1800,7 @@ var td_ad_background_click_target="";
             <div class="td-post-source-tags">
                 <!-- source via -->                <!-- tags -->            </div>
 
-                        <!-- next prev -->            <!-- author box --><div class="td-author-name vcard author" style="display: none"><span class="fn"><a href="https://www.licagentpune.com/author/licadmin">LICAgentPune</a></span></div>            <!-- meta -->        </footer>
+                        <!-- next prev -->            <!-- author box --><div class="td-author-name vcard author" style="display: none"><span class="fn"><a href="https://www.licagentpune.com/author/licadmin">LICAgentHyderabad</a></span></div>            <!-- meta -->        </footer>
 
     </article> <!-- /.post -->
 
@@ -1873,10 +1873,7 @@ tdBlocksArray.push(block_tdi_10_166);
         <div class="td-container">
             <div class="td-pb-row">
                 <div class="td-pb-span td-sub-footer-menu">
-                    <div class="menu-td-demo-header-menu-container"><ul id="menu-td-demo-header-menu" class="td-subfooter-menu"><li id="menu-item-452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-452"><a href="https://www.licagentpune.com/disclaimer">Disclaimer</a></li>
-<li id="menu-item-453" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-453"><a href="https://www.licagentpune.com/terms-of-use">Terms of Use</a></li>
-<li id="menu-item-455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy td-menu-item td-normal-menu menu-item-455"><a href="https://www.licagentpune.com/privacy-policy">Privacy Policy</a></li>
-</ul></div>                </div>
+                     <jsp:include page="../jsp/terms.jsp"></jsp:include> </div>
 
                <jsp:include page="../jsp/Copyright.jsp"></jsp:include>
             </div>

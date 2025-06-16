@@ -1,7 +1,9 @@
 <!doctype html >
 <!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
 <!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html lang="en-US" xmlns:th="http://www.thymeleaf.org"> <!--<![endif]-->
+<!--[if gt IE 8]><!-->
+	<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>    
+	 <html lang="en-US" xmlns:th="http://www.thymeleaf.org"> <!--<![endif]-->
 <head>
     <title >LIC Agent Hyderabad</title> 
     <meta charset="UTF-8" />
@@ -1807,7 +1809,7 @@ var td_ad_background_click_target="";
 <div class="wpcf7-response-output" aria-hidden="true"></div></form></div>
 <div>
 	
-	    <form  action="/getdtls" method="get" th:object="${user}">
+			<form:form action="register" method="post" modelAttribute="user">
 	        <div>
 	            <label for="name">Name:</label>
 	            <input type="text" id="name" th:field="*{name}" />
@@ -1816,8 +1818,8 @@ var td_ad_background_click_target="";
 	            <label for="email">Email:</label>
 	            <input type="email" id="email" th:field="*{email}" />
 	        </div>
-	        <button type="submit">Submit</button>
-	    </form>
+	       <form:button>Register</form:button>
+	    </form:form>
 	
 </div>
 </div>

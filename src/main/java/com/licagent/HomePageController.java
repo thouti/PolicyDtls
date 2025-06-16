@@ -16,8 +16,10 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 public class HomePageController {
 	private static final Logger logger = LogManager.getLogger(HomePageController.class);
 	@GetMapping(value = "/")
-	public String homePage(HttpSession session) {
+	public String homePage(HttpSession session,Model model) {
 		logger.info("Entered into Lic Agent Home page");
+		 User user = new User(); 
+		  model.addAttribute("user", user);
 		return "agentInfo";
 	}
 	@GetMapping(value = "/jeevanumang")
@@ -146,10 +148,12 @@ public String wholelifeplans(HttpSession session) {
 		return "aboutagent";
 	}
 	
-	 @GetMapping("/getdtls")
-	    public String getData(Model model) {
-	        model.addAttribute("user", new User());
-	        System.out.println("==================="+model.getAttribute("name"));
+	// @GetMapping("/getdtls")
+	 @PostMapping("/register")
+	    public String getData(@ModelAttribute("user") User user) {
+		  // model.addAttribute("user", new User()); 
+		 System.out.println(user);
+	        System.out.println("==================="+user.getName());
 	        return "agentInfo";
 	    }
 }

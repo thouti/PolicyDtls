@@ -9,6 +9,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ModelAttribute;
 
 @Controller
@@ -16,10 +17,8 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 public class HomePageController {
 	private static final Logger logger = LogManager.getLogger(HomePageController.class);
 	@GetMapping(value = "/")
-	public String homePage(HttpSession session,Model model) {
+	public String homePage(HttpSession session) {
 		logger.info("Entered into Lic Agent Home page");
-		 User user = new User(); 
-		  model.addAttribute("user", user);
 		return "agentInfo";
 	}
 	@GetMapping(value = "/jeevanumang")
@@ -150,10 +149,11 @@ public String wholelifeplans(HttpSession session) {
 	
 	// @GetMapping("/getdtls")
 	 @PostMapping("/register")
-	    public String getData(@ModelAttribute("user") User user) {
-		  // model.addAttribute("user", new User()); 
-		 System.out.println(user);
-	        System.out.println("==================="+user.getName());
+	    public String getData(@RequestParam("name") String name1,@RequestParam("email") String email,@RequestParam("phone") String phone,@RequestParam("message") String message) {
+	        System.out.println("==================="+name1);
+	        System.out.println("==================="+email);
+	        System.out.println("==================="+phone);
+	        System.out.println("==================="+message);
 	        return "agentInfo";
 	    }
 }

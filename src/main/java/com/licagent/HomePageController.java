@@ -5,6 +5,7 @@ import javax.servlet.http.HttpSession;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -15,6 +16,10 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 @Controller
 //@RestController
 public class HomePageController {
+	
+	 @Autowired
+     private CustomerRegisterRepository customerRegisterEntity;
+
 	private static final Logger logger = LogManager.getLogger(HomePageController.class);
 	@GetMapping(value = "/")
 	public String homePage(HttpSession session) {
@@ -154,6 +159,12 @@ public String wholelifeplans(HttpSession session) {
 	        System.out.println("==================="+email);
 	        System.out.println("==================="+phone);
 	        System.out.println("==================="+message);
+	        CustomerRegisterEntity user=new CustomerRegisterEntity();
+	        user.setName(name1);
+	        user.setEmail(email);
+	        user.setPhone(phone);
+	        user.setMessage(message);
+	        customerRegisterEntity.save(user);
 	        return "agentInfo";
 	    }
 }

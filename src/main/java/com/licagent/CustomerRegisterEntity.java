@@ -15,7 +15,7 @@ import org.hibernate.annotations.Immutable;
 public class CustomerRegisterEntity {
    
 	@Id
-	//@GeneratedValue(strategy = GenerationType.IDENTITY) 
+	
     private Long id;
     private String name;
     private String email;

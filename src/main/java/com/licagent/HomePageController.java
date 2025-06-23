@@ -160,7 +160,7 @@ public String wholelifeplans(HttpSession session) {
 	        System.out.println("==================="+phone);
 	        System.out.println("==================="+message);
 	        CustomerRegisterEntity user=new CustomerRegisterEntity();
-	       user.setId((long) 0);
+	       user.setId(Long.parseLong(phone));
 	        user.setName(name1);
 	        user.setEmail(email);
 	        user.setPhone(phone);

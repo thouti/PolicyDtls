@@ -152,13 +152,8 @@ public String wholelifeplans(HttpSession session) {
 		return "aboutagent";
 	}
 	
-	// @GetMapping("/getdtls")
 	 @PostMapping("/register")
 	    public String getData(@RequestParam("name") String name1,@RequestParam("email") String email,@RequestParam("phone") String phone,@RequestParam("message") String message) {
-	        System.out.println("==================="+name1);
-	        System.out.println("==================="+email);
-	        System.out.println("==================="+phone);
-	        System.out.println("==================="+message);
 	        CustomerRegisterEntity user=new CustomerRegisterEntity();
 	       user.setId(Long.parseLong(phone));
 	        user.setName(name1);

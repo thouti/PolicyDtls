@@ -15,8 +15,7 @@ import org.hibernate.annotations.Immutable;
 public class CustomerRegisterEntity {
    
 	@Id
-	
-    private Long id;
+	private Long id;
     private String name;
     private String email;
     private String phone;

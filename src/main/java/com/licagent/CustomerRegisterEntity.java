@@ -54,8 +54,6 @@ public class CustomerRegisterEntity {
 		this.id = id;
 	}
 	public void save() {
-		// TODO Auto-generated method stub
-		
 	}
 	
     

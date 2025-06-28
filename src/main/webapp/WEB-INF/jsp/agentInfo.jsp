@@ -1832,14 +1832,14 @@ var td_ad_background_click_target="";
 						<ul class="mystickyelements-lists mystickyno-minimize">
 							
 															<li id="mystickyelements-contact-form" class="mystickyelements-contact-form  element-desktop-on element-mobile-on" >
-																	<span class="mystickyelements-social-icon "
+																	<!--<span class="mystickyelements-social-icon "
 										  style="background-color: #7761DF; color: #FFFFFF;"><i
-											class="far fa-envelope"></i>Contact Us</span>
+											class="far fa-envelope"></i>Contact Us 123</span>
 
 
 																		<div class="element-contact-form">
 										<h3 style="color: #7761DF;">
-											Contact Us											<a href="javascript:void(0);" class="element-contact-close"><i class="fas fa-times"></i></a>
+											Contact Us	12										<a href="javascript:void(0);" class="element-contact-close"><i class="fas fa-times"></i></a>
 										</h3>
 
 										<form id="stickyelements-form" action="" method="post" autocomplete="off">
@@ -1871,7 +1871,8 @@ var td_ad_background_click_target="";
 											<input type="hidden" id="stickyelements-page-link" name="stickyelements-page-link" value="https://www.licagentpune.com/" />
 										</form>
 										<p class="mse-form-success-message" id="mse-form-error" style="display:none;"></p>
-									</div>
+									</div>-->
+									
 								</li>
 																<li id="mystickyelements-social-whatsapp"
 										class="mystickyelements-social-whatsapp  element-mobile-on">

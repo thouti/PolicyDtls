@@ -10,5 +10,4 @@ public class LicAgentInfoApplication {
 		SpringApplication.run(LicAgentInfoApplication.class, args);
 		System.out.println("landing page loaded");
 	}
-
 }

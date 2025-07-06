@@ -1,8 +1,6 @@
 package com.licagent;
 
 import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
@@ -14,8 +12,8 @@ import org.hibernate.annotations.Immutable;
 @Table(name = "customer_register_entity")
 public class CustomerRegisterEntity {
    
-	@Id
-	private Long id;
+	@Id // Designates 'id' as the primary key
+    private Long id;
     private String name;
     private String email;
     private String phone;
@@ -46,17 +44,15 @@ public class CustomerRegisterEntity {
 	public void setMessage(String message) {
 		this.message = message;
 	}
+	 // Getters and Setters
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
 	
-	public Long getId() {
-		return id;
-	}
-	public void setId(Long id) {
-		this.id = id;
-	}
-	public void save() {
-	}
-	
-    
 }
 
 

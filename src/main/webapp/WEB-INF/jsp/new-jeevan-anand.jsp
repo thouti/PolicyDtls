@@ -2056,7 +2056,7 @@ tdBlocksArray.push(block_tdi_10_2b5);
                                 <aside id="text-2" class="td_block_template_4 widget text-2 widget_text"><h4 class="td-block-title"><span>Book an Appointment</span></h4>			<div class="textwidget"><div role="form" class="wpcf7" id="wpcf7-f117-p375-o1" lang="en-US" dir="ltr">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
 <div>
-<form:form action="register" method="post" > <!--modelAttribute="user"-->
+<form:form action="register" method="post" modelAttribute="customerRegisterEntity" > 
 <p><label><span class="wpcf7-form-control-wrap" data-name="your-name"><input type="text" name="name" th:field="*{name}"  value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Name *" /></span> </label></p>
 <p><label><span class="wpcf7-form-control-wrap" data-name="your-email"><input type="email"  th:field="*{email}"  name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email Address *" /></span> </label></p>
 <p><label><span class="wpcf7-form-control-wrap" data-name="your-phone"><input type="text"  th:field="*{phone}" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Phone Number *" /></span> </label></p>

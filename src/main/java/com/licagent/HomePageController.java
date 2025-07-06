@@ -151,15 +151,10 @@ public String wholelifeplans(HttpSession session) {
 		logger.info("Entered into  aboutAgent");
 		return "aboutagent";
 	}
-	
 	 @PostMapping("/register")
-	    public String getData(@RequestParam("name") String name1,@RequestParam("email") String email,@RequestParam("phone") String phone,@RequestParam("message") String message) {
-	        CustomerRegisterEntity user=new CustomerRegisterEntity();
-	       user.setId(Long.parseLong(phone));
-	        user.setName(name1);
-	        user.setEmail(email);
-	        user.setPhone(phone);
-	        user.setMessage(message);
+	    public String getData(@ModelAttribute("user") CustomerRegisterEntity user) {
+	    
+		 user.setId(Long.parseLong(user.getPhone()));
 	        customerRegisterEntity.save(user);
 	        return "agentInfo";
 	    }

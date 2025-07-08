@@ -60,7 +60,7 @@ public class HomePageController {
 	}
 	@GetMapping(value = "/jeevan-tarun-plan")
 	public String jeevantarunplan(HttpSession session) {
-		logger.info("Entered into jeevan-lakshya plan page");
+		logger.info("Entered into jeevan-tarun-plan page");
 		return "jeevan-tarun-plan";
 	}
 	@GetMapping(value = "/childrens-money-back-plans")
@@ -153,9 +153,10 @@ public String wholelifeplans(HttpSession session) {
 	}
 	 @PostMapping("/register")
 	    public String getData(@ModelAttribute("user") CustomerRegisterEntity user) {
-	    
+		 logger.info("Entered into Data Register ");
 		 user.setId(Long.parseLong(user.getPhone()));
 	        customerRegisterEntity.save(user);
+	        logger.info("Successfully Stored the data  ");
 	        return "agentInfo";
 	    }
 }

@@ -2061,7 +2061,7 @@ tdBlocksArray.push(block_tdi_10_2b5);
 <p><label><span class="wpcf7-form-control-wrap" data-name="your-email"><input type="email"  th:field="*{email}"  name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email Address *" /></span> </label></p>
 <p><label><span class="wpcf7-form-control-wrap" data-name="your-phone"><input type="text"  th:field="*{phone}" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Phone Number *" /></span> </label></p>
 <p><label><span class="wpcf7-form-control-wrap" data-name="your-message"><textarea name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message *"></textarea></span> </label></p>
-<p><input type="submit" value="Submit123" class="wpcf7-form-control has-spinner wpcf7-submit" /></p>
+<p><input type="submit" value="Submit" class="wpcf7-form-control has-spinner wpcf7-submit" /></p>
 											  </form:form></div>
 </div>
 		</aside>                            </div>

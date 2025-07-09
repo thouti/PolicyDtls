@@ -2,6 +2,7 @@
 <!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
 <!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
 <!--[if gt IE 8]><!--> <html lang="en-US"> <!--<![endif]-->
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>    
 <head>
     <title>New Children's Money Back &raquo; LIC Agent Hyderabad</title>
     <meta charset="UTF-8" />
@@ -2031,7 +2032,23 @@ tdBlocksArray.push(block_tdi_10_53f);
                         </div>
                         <div class="td-pb-span4 td-main-sidebar" role="complementary">
                             <div class="td-ss-main-sidebar">
-                               <jsp:include page="../jsp/registerForm.jsp"></jsp:include>                          </div>
+								 <aside id="text-2" class="td_block_template_4 widget text-2 widget_text"><h4 class="td-block-title"><span>Book an Appointment</span></h4>			<div class="textwidget"><div role="form" class="wpcf7" id="wpcf7-f117-o1" lang="en-US" dir="ltr">
+								<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+								<div>
+								<form:form action="register" method="post" modelAttribute="user"> 
+								<p><label><span class="wpcf7-form-control-wrap" data-name="your-name"><input type="text" name="name" th:field="*{name}"  value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Name *" /></span> </label></p>
+								<p><label><span class="wpcf7-form-control-wrap" data-name="your-email"><input type="email"  th:field="*{email}"  name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email Address *" /></span> </label></p>
+								<p><label><span class="wpcf7-form-control-wrap" data-name="your-phone"><input type="text"  th:field="*{phone}" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Phone Number *" /></span> </label></p>
+								<p><label><span class="wpcf7-form-control-wrap" data-name="your-message"><textarea name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message *"></textarea></span> </label></p>
+								<p><input type="submit" value="Submit" class="wpcf7-form-control has-spinner wpcf7-submit" /></p>
+																			  </form:form>
+																			  </div>
+								<div class="wpcf7-response-output" aria-hidden="true"></div></div>
+								<div>
+									
+								</div>
+								</div>
+										</aside>                            </div>
                         </div>
                                     </div> <!-- /.td-pb-row -->
         </div> <!-- /.td-container -->

@@ -2,27 +2,42 @@
 <!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
 <!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
 <!--[if gt IE 8]><!--> <html lang="en-US"> <!--<![endif]-->
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %> 
 <head>
     <title>LIC Jeevan Amar &raquo; LIC Agent Hyderabad</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="pingback" href="https://www.licagentpune.com/xmlrpc.php" />
+   
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-<link rel="icon" type="image/png" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ag-pune.png"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-76.png"/><link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-120.png"/><link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-155.png"/><link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-114.png"/><link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.licagentpune.com/wp-content/uploads/2020/07/lic-ios-144.png"/>
-	<!-- This site is optimized with the Yoast SEO Premium plugin v16.1 - https://yoast.com/wordpress/plugins/seo/ -->
-	<link rel="canonical" href="https://www.licagentpune.com/lic-jeevan-amar" />
-	
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.licagentpune.com/#organization","name":"LIC Agent Hyderabad","url":"https://www.licagentpune.com/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://www.licagentpune.com/#logo","inLanguage":"en-US","url":"https://www.licagentpune.com/wp-content/uploads/2020/07/lic-agent-140-48.png","contentUrl":"https://www.licagentpune.com/wp-content/uploads/2020/07/lic-agent-140-48.png","width":140,"height":48,"caption":"LIC Agent Hyderabad"},"image":{"@id":"https://www.licagentpune.com/#logo"}},{"@type":"WebSite","@id":"https://www.licagentpune.com/#website","url":"https://www.licagentpune.com/","name":"LIC Agent Hyderabad","description":"Just another WordPress site","publisher":{"@id":"https://www.licagentpune.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.licagentpune.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.licagentpune.com/lic-jeevan-amar#primaryimage","inLanguage":"en-US","url":"https://www.licagentpune.com/wp-content/uploads/2020/07/lic-jeevan-amar.jpg","contentUrl":"https://www.licagentpune.com/wp-content/uploads/2020/07/lic-jeevan-amar.jpg","width":1200,"height":675},{"@type":["WebPage","FAQPage"],"@id":"https://www.licagentpune.com/lic-jeevan-amar#webpage","url":"https://www.licagentpune.com/lic-jeevan-amar","name":"LIC Jeevan Amar &raquo; LIC Agent Hyderabad","isPartOf":{"@id":"https://www.licagentpune.com/#website"},"primaryImageOfPage":{"@id":"https://www.licagentpune.com/lic-jeevan-amar#primaryimage"},"datePublished":"2020-07-05T21:11:40+00:00","dateModified":"2020-07-06T06:47:14+00:00","breadcrumb":{"@id":"https://www.licagentpune.com/lic-jeevan-amar#breadcrumb"},"mainEntity":[{"@id":"https://www.licagentpune.com/lic-jeevan-amar#faq-question-1594017631415"},{"@id":"https://www.licagentpune.com/lic-jeevan-amar#faq-question-1594017767068"},{"@id":"https://www.licagentpune.com/lic-jeevan-amar#faq-question-1594017814594"},{"@id":"https://www.licagentpune.com/lic-jeevan-amar#faq-question-1594017873504"},{"@id":"https://www.licagentpune.com/lic-jeevan-amar#faq-question-1594017953758"}],"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.licagentpune.com/lic-jeevan-amar"]}]},{"@type":"BreadcrumbList","@id":"https://www.licagentpune.com/lic-jeevan-amar#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.licagentpune.com/","url":"https://www.licagentpune.com/","name":"LIC Agent Hyderabad"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.licagentpune.com/lic/lic-term-plans","url":"https://www.licagentpune.com/lic/lic-term-plans","name":"Term Plans"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://www.licagentpune.com/lic-jeevan-amar","url":"https://www.licagentpune.com/lic-jeevan-amar","name":"LIC Jeevan Amar"}}]},{"@type":"Article","@id":"https://www.licagentpune.com/lic-jeevan-amar#article","isPartOf":{"@id":"https://www.licagentpune.com/lic-jeevan-amar#webpage"},"author":{"@id":"https://www.licagentpune.com/#/schema/person/b1acfe6d3f21b3f2d35e38460c1c069b"},"headline":"LIC Jeevan Amar","datePublished":"2020-07-05T21:11:40+00:00","dateModified":"2020-07-06T06:47:14+00:00","mainEntityOfPage":{"@id":"https://www.licagentpune.com/lic-jeevan-amar#webpage"},"commentCount":0,"publisher":{"@id":"https://www.licagentpune.com/#organization"},"image":{"@id":"https://www.licagentpune.com/lic-jeevan-amar#primaryimage"},"articleSection":"Term Plans","inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://www.licagentpune.com/lic-jeevan-amar#respond"]}]},{"@type":"Person","@id":"https://www.licagentpune.com/#/schema/person/b1acfe6d3f21b3f2d35e38460c1c069b","name":"LICAgentPune","image":{"@type":"ImageObject","@id":"https://www.licagentpune.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/fb95574270bf2ce912485cd645f067b6?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/fb95574270bf2ce912485cd645f067b6?s=96&d=mm&r=g","caption":"LICAgentPune"},"description":"licagentpune.com provide all of your insurance needs. We are a group of dedicated insurance professionals committed to protecting you, your family members and your business with caring, personalized LIC insurance service.","sameAs":["https://contact.licagentpune.com"]},{"@type":"Question","@id":"https://www.licagentpune.com/lic-jeevan-amar#faq-question-1594017631415","position":1,"url":"https://www.licagentpune.com/lic-jeevan-amar#faq-question-1594017631415","name":"What are the options available in Jeevan Amar plan?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"LIC Jeevan Amar has two Options to choose from about the life insurance cover. First option is Level sum assured which will be fixed through out the policy term and Increasing sum assured where sum assured will insrease yearly 10% from 6th year to 15th year.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.licagentpune.com/lic-jeevan-amar#faq-question-1594017767068","position":2,"url":"https://www.licagentpune.com/lic-jeevan-amar#faq-question-1594017767068","name":"What is the maximum policy term?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"Policy term can be maximum 40 years or till the age of 80.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.licagentpune.com/lic-jeevan-amar#faq-question-1594017814594","position":3,"url":"https://www.licagentpune.com/lic-jeevan-amar#faq-question-1594017814594","name":"What type of premium payments offered ?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"You have three different options - Single premium , Regular Premium, Limited Premium.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.licagentpune.com/lic-jeevan-amar#faq-question-1594017873504","position":4,"url":"https://www.licagentpune.com/lic-jeevan-amar#faq-question-1594017873504","name":"Is Accident Death Benefit rider is available in Jeevan Amar?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"Yes. Available as on option.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"https://www.licagentpune.com/lic-jeevan-amar#faq-question-1594017953758","position":5,"url":"https://www.licagentpune.com/lic-jeevan-amar#faq-question-1594017953758","name":"How Death Benefit is paid to nominee?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"Death benefit to nominee is paid in lumpsum or in installments over a period of 5, 10 or 15 years.","inLanguage":"en-US"},"inLanguage":"en-US"}]}</script>
+    <link rel="icon" type="image/JPG" href="images/DSC05314.JPG"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="images/DSC05314.JPG"/><link rel="apple-touch-icon-precomposed" sizes="120x120" href="images/DSC05314.JPG"/><link rel="apple-touch-icon-precomposed" sizes="152x152" href="images/DSC05314.JPG"/><link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/DSC05314.JPG"/><link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/DSC05314.JPG"/>
+	<link rel="canonical" href="/jeevanumang" />
+	<!-- <meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="LIC Jeevan Umang &raquo; LIC Agent Hyderabad" />
+	<meta property="og:description" content="LIC Jeevan Umang is an endowment cum whole life plan which offers a regular yearly payout from the end of the policy premium payment term till the date of your policyholders survival. Jeevan Umang is a participating plan so eligible for simple reversionary Bonus and Final Addition Bonus declared by LIC. Frequently Asked Questions" />
+	<meta property="og:url" content="/jeevanumang" />
+	<meta property="og:site_name" content="LIC Agent Hyderabad" />
+	<meta property="article:published_time" content="2020-07-05T07:09:13+00:00" />
+	<meta property="article:modified_time" content="2020-07-05T21:18:23+00:00" />
+	<meta property="og:image" content="images/jeevan-umang.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="675" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Written by">
+	<meta name="twitter:data1" content="LICAgentHyderabad">
+	<meta name="twitter:label2" content="Est. reading time">
+	<meta name="twitter:data2" content="1 minute"> -->
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"/","name":"LIC Agent Hyderabad","url":"/","sameAs":[],"logo":{"@type":"ImageObject","@id":"/#logo","inLanguage":"en-US","url":"images/lic Agent.jpg","contentUrl":"images/lic Agent.jpg","width":140,"height":48,"caption":"LIC Agent Hyderabad"},"image":{"@id":"/#logo"}},{"@type":"WebSite","@id":"/#website","url":"/","name":"LIC Agent Hyderabad","description":"Just another WordPress site","publisher":{"@id":"/#organization"},"potentialAction":[{"@type":"SearchAction","target":"/","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"/jeevanumang#primaryimage","inLanguage":"en-US","url":"images/jeevan-umang.jpg","contentUrl":"images/jeevan-umang.jpg","width":1200,"height":675,"caption":"LIC Jeevan Umang"},{"@type":["WebPage","FAQPage"],"@id":"/jeevanumang#webpage","url":"/jeevanumang","name":"LIC Jeevan Umang &raquo; LIC Agent Hyderabad","isPartOf":{"@id":"/#website"},"primaryImageOfPage":{"@id":"/jeevanumang#primaryimage"},"datePublished":"2020-07-05T07:09:13+00:00","dateModified":"2020-07-05T21:18:23+00:00","breadcrumb":{"@id":"/jeevanumang#breadcrumb"},"mainEntity":[{"@id":"/jeevanumang#faq-question-1593932669646"},{"@id":"/jeevanumang#faq-question-1593932728963"},{"@id":"/jeevanumang#faq-question-1593932858436"}],"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["/jeevanumang"]}]},{"@type":"BreadcrumbList","@id":"/jeevanumang#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"/","url":"/","name":"LIC Agent Hyderabad"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"/sub/child-plans","url":"/sub/child-plans","name":"Child Plans"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"/jeevanumang","url":"/jeevanumang","name":"LIC Jeevan Umang"}}]},{"@type":"Article","@id":"/jeevanumang#article","isPartOf":{"@id":"/jeevanumang#webpage"},"author":{"@id":"/#/schema/person/b1acfe6d3f21b3f2d35e38460c1c069b"},"headline":"LIC Jeevan Umang","datePublished":"2020-07-05T07:09:13+00:00","dateModified":"2020-07-05T21:18:23+00:00","mainEntityOfPage":{"@id":"/jeevanumang#webpage"},"commentCount":0,"publisher":{"@id":"/#organization"},"image":{"@id":"/jeevanumang#primaryimage"},"articleSection":"Child Plans,Endowment Plans,Money Back Plans,Pension Plans,Whole Life Plans","inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["/jeevanumang#respond"]}]},{"@type":"Person","@id":"/","name":"LICAgentPune","image":{"@type":"ImageObject","@id":"/","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/fb95574270bf2ce912485cd645f067b6?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/fb95574270bf2ce912485cd645f067b6?s=96&d=mm&r=g","caption":"LICAgentPune"},"description":"licagentpune.com provide all of your insurance needs. We are a group of dedicated insurance professionals committed to protecting you, your family members and your business with caring, personalized LIC insurance service.","sameAs":["https://contact.licagentpune.com"]},{"@type":"Question","@id":"/jeevanumang#faq-question-1593932669646","position":1,"url":"/jeevanumang#faq-question-1593932669646","name":"What kind of policy is this?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"LIC Jeevan umang is an endowment cum whole life money back policy.","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"/jeevanumang#faq-question-1593932728963","position":2,"url":"/jeevanumang#faq-question-1593932728963","name":"How much survival benefit is paid?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"LIC offers 8% of policy Sum Assured after the premium payment term completed  - till policyholder is  alive or till the age of 100.<br/>","inLanguage":"en-US"},"inLanguage":"en-US"},{"@type":"Question","@id":"/jeevanumang#faq-question-1593932858436","position":3,"url":"/jeevanumang#faq-question-1593932858436","name":"Policy loan is available?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"Yes. You will be eligible to get a loan against jeevan umang policy once it acquires a Surrender Value. The loan amount and interest rate would depend on the prevailing at the time of taking the loan.","inLanguage":"en-US"},"inLanguage":"en-US"}]}</script>
 	<!-- / Yoast SEO Premium plugin. -->
 
 
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; Feed" href="https://www.licagentpune.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; Feed" href="files/feed" />
 <link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; Comments Feed" href="files/feed" />
-<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; LIC Jeevan Amar Comments Feed" href="files/feed" />
+<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; LIC Jeevan Umang Comments Feed" href="files/feed" />
 <script type="text/javascript">
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.licagentpune.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"/js\/wp-emoji-release.min.js?ver=6.0.3"}};
 /*! This file is auto-generated */
 !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
 </script>
@@ -40,17 +55,17 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel="stylesheet" href="https://www.licagentpune.com/wp-content/cache/minify/a5ff7.css" media="all" />
+	<link rel="stylesheet" href="css/a5ff7.css" media="all" />
 
 <style id='global-styles-inline-css' type='text/css'>
 body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 11px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 32px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--regular: 15px;--wp--preset--font-size--larger: 50px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
 </style>
-<link rel="stylesheet" href="https://www.licagentpune.com/wp-content/cache/minify/24a12.css" media="all" />
+<link rel="stylesheet" href="css/24a12.css" media="all" />
 
 
 
 <link rel='stylesheet' id='google-fonts-style-css'  href='https://fonts.googleapis.com/css?family=Lato%3A400%7COpen+Sans%3A400%2C600%2C700%7CRoboto%3A400%2C500%2C700&#038;display=swap&#038;ver=10.3.4' type='text/css' media='all' />
-<link rel="stylesheet" href="https://www.licagentpune.com/wp-content/cache/minify/32fce.css" media="all" />
+<link rel="stylesheet" href="css/32fce.css" media="all" />
 
 
 <style id='td-theme-inline-css' type='text/css'>
@@ -69,26 +84,18 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	
 </style>
 <link rel='stylesheet' id='mystickyelements-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600%2C700&#038;ver=1.7.8' type='text/css' media='all' />
-<link rel="stylesheet" href="https://www.licagentpune.com/wp-content/cache/minify/2fdce.css" media="all" />
-
-
-
-
-
-
-<script src="https://www.licagentpune.com/wp-content/cache/minify/818c0.js"></script>
-
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.licagentpune.com/wp-includes/wlwmanifest.xml" /> 
+<link rel="stylesheet" href="css/2fdce.css" media="all" />
+<script src="js/818c0.js"></script>
+<!-- <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.licagentpune.com/wp-includes/wlwmanifest.xml" />  -->
 <meta name="generator" content="WordPress 6.0.3" />
-<link rel='shortlink' href='https://www.licagentpune.com/?p=392' />
-<link rel="alternate" type="application/json+oembed" href="https://www.licagentpune.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.licagentpune.com%2Flic-jeevan-amar" />
-<link rel="alternate" type="text/xml+oembed" href="https://www.licagentpune.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.licagentpune.com%2Flic-jeevan-amar&#038;format=xml" />
-<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
+<!-- <link rel="alternate" type="application/json+oembed" href="https://www.licagentpune.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.licagentpune.com%2Flic-jeevan-umang" /> 
+<link rel="alternate" type="text/xml+oembed" href="https://www.licagentpune.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.licagentpune.com%2Flic-jeevan-umang&#038;format=xml" /> 
+
         <script>
-        window.tdb_globals = {"wpRestNonce":"9d1b7d1685","wpRestUrl":"https:\/\/www.licagentpune.com\/wp-json\/","permalinkStructure":"\/%postname%","isAjax":false,"isAdminBarShowing":false,"autoloadScrollPercent":50,"postAutoloadStatus":"on","origPostEditUrl":null};
+        window.tdb_globals = {"wpRestNonce":"d1b81eb61e","wpRestUrl":"https:\/\/www.licagentpune.com\/wp-json\/","permalinkStructure":"\/%postname%","isAjax":false,"isAdminBarShowing":false,"autoloadScrollPercent":50,"postAutoloadStatus":"on","origPostEditUrl":null};
     </script>
     			<script>
-				window.tdwGlobal = {"adminUrl":"https:\/\/www.licagentpune.com\/wp-admin\/","wpRestNonce":"9d1b7d1685","wpRestUrl":"https:\/\/www.licagentpune.com\/wp-json\/","permalinkStructure":"\/%postname%"};
+				window.tdwGlobal = {"adminUrl":"https:\/\/www.licagentpune.com\/wp-admin\/","wpRestNonce":"d1b81eb61e","wpRestUrl":"https:\/\/www.licagentpune.com\/wp-json\/","permalinkStructure":"\/%postname%"}; -->
 			</script>
 			
 <!-- JS generated by theme -->
@@ -160,10 +167,6 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
             }
 
         })();
-
-
-
-
         var tdLocalCache = {};
 
         ( function () {
@@ -186,16 +189,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                 }
             };
         })();
-
-    
-    
 var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
 var td_animation_stack_effect="type0";
 var tds_animation_stack=true;
 var td_animation_stack_specific_selectors=".entry-thumb, img";
 var td_animation_stack_general_selectors=".td-animation-stack img, .td-animation-stack .entry-thumb, .post img";
 var tdc_is_installed="yes";
-var td_ajax_url="https:\/\/www.licagentpune.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=10.3.4";
 var td_get_template_directory_uri="https:\/\/www.licagentpune.com\/wp-content\/plugins\/td-composer\/legacy\/common";
 var tds_snap_menu="snap";
 var tds_logo_on_sticky="";
@@ -653,6 +652,11 @@ var td_ad_background_click_target="";
     .tdm-menu-active-style4 .tdm-header .sf-menu > .sfHover > a {
         border-color: #31d6aa;
     }
+    
+    
+
+
+    
     .td-header-wrap .td-header-menu-wrap-full,
     .td-header-menu-wrap.td-affix,
     .td-header-style-3 .td-header-main-menu,
@@ -731,6 +735,8 @@ var td_ad_background_click_target="";
     .tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu > .sfHover > a {
         color: #b3e6f9;
     }
+    
+
     
     .td-header-wrap .td-header-menu-wrap .sf-menu > li > a,
     .td-header-wrap .td-header-menu-social .td-social-icon-wrap a,
@@ -1240,11 +1246,17 @@ var td_ad_background_click_target="";
 		font-family:Lato;
 	
 	}
+
+
 	
     body, p {
     	font-family:Lato;
 	
     }
+
+
+
+
     
     .mfp-content .td-login-button:active,
     .mfp-content .td-login-button:hover {
@@ -1344,6 +1356,11 @@ var td_ad_background_click_target="";
     .tdm-menu-active-style4 .tdm-header .sf-menu > .sfHover > a {
         border-color: #31d6aa;
     }
+    
+    
+
+
+    
     .td-header-wrap .td-header-menu-wrap-full,
     .td-header-menu-wrap.td-affix,
     .td-header-style-3 .td-header-main-menu,
@@ -1669,11 +1686,111 @@ var td_ad_background_click_target="";
 
 	<style id="tdw-css-placeholder"></style></head>
 
-<body class="post-template-default single single-post postid-392 single-format-standard td-standard-pack lic-jeevan-amar global-block-template-4 td-medicine-pro td-animation-stack-type0 td-full-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<body class="post-template-default single single-post postid-374 single-format-standard td-standard-pack lic-jeevan-umang global-block-template-4 td-medicine-pro td-animation-stack-type0 td-full-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 
         <div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
 
     <div class="td-menu-background"></div>
+<div id="td-mobile-nav">
+    <div class="td-mobile-container">
+        <!-- mobile menu top section -->
+        <div class="td-menu-socials-wrap">
+            <!-- socials -->
+            <div class="td-menu-socials">
+                
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Instagram">
+                <i class="td-icon-font td-icon-instagram"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Linkedin">
+                <i class="td-icon-font td-icon-linkedin"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+            </a>
+        </span>            </div>
+            <!-- close button -->
+            <div class="td-mobile-close">
+                <a href="#"><i class="td-icon-close-mobile"></i></a>
+            </div>
+        </div>
+    </div>
+
+    <!-- register/login section -->
+            <div id="login-form-mobile" class="td-register-section">
+            
+            <div id="td-login-mob" class="td-login-animation td-login-hide-mob">
+            	<!-- close button -->
+	            <div class="td-login-close">
+	                <a href="#" class="td-back-button"><i class="td-icon-read-down"></i></a>
+	                <div class="td-login-title">Sign in</div>
+	                <!-- close button -->
+		            <div class="td-mobile-close">
+		                <a href="#"><i class="td-icon-close-mobile"></i></a>
+		            </div>
+	            </div>
+	            <div class="td-login-form-wrap">
+	                <div class="td-login-panel-title"><span>Welcome!</span>Log into your account</div>
+	                <div class="td_display_err"></div>
+	                <div class="td-login-inputs"><input class="td-login-input" type="text" name="login_email" id="login_email-mob" value="" required><label>your username</label></div>
+	                <div class="td-login-inputs"><input class="td-login-input" type="password" name="login_pass" id="login_pass-mob" value="" required><label>your password</label></div>
+	                <input type="button" name="login_button" id="login_button-mob" class="td-login-button" value="LOG IN">
+	                <div class="td-login-info-text">
+	                <a href="#" id="forgot-pass-link-mob">Forgot your password?</a>
+	                </div>
+	                <div class="td-login-register-link">
+	                
+	                </div>
+	                
+	                <div class="td-login-info-text"><a class="privacy-policy-link" href="/privacy-policy">Privacy Policy</a></div>
+
+                </div>
+            </div>
+
+            
+            
+            
+            
+            <div id="td-forgot-pass-mob" class="td-login-animation td-login-hide-mob">
+                <!-- close button -->
+	            <div class="td-forgot-pass-close">
+	                <a href="#" class="td-back-button"><i class="td-icon-read-down"></i></a>
+	                <div class="td-login-title">Password recovery</div>
+	            </div>
+	            <div class="td-login-form-wrap">
+	                <div class="td-login-panel-title">Recover your password</div>
+	                <div class="td_display_err"></div>
+	                <div class="td-login-inputs"><input class="td-login-input" type="text" name="forgot_email" id="forgot_email-mob" value="" required><label>your email</label></div>
+	                <input type="button" name="forgot_button" id="forgot_button-mob" class="td-login-button" value="Send My Pass">
+                </div>
+            </div>
+        </div>
+    </div>    <div class="td-search-background"></div>
+<div class="td-search-wrap-mob">
+	<div class="td-drop-down-search">
+		<%-- <form method="get" class="td-search-form" action="https://www.licagentpune.com/">
+			<!-- close button -->
+			<div class="td-search-close">
+				<a href="#"><i class="td-icon-close-mobile"></i></a>
+			</div>
+			<div role="search" class="td-search-input">
+				<span>Search</span>
+				<input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off" />
+			</div>
+		</form> --%>
+		<div id="td-aj-search-mob" class="td-ajax-search-flex"></div>
+	</div>
+</div>
+
     <div id="td-outer-wrap" class="td-theme-wrap">
     
         
@@ -1686,30 +1803,27 @@ var td_ad_background_click_target="";
     <div class="top-bar-style-1">
         
 <div class="td-header-sp-top-menu">
+<%-- <jsp:include page="../jsp/Heder.jsp"></jsp:include> --%>
 
-<jsp:include page="../jsp/Heder.jsp"></jsp:include></div>
+</div>
         <div class="td-header-sp-top-widget">
     
     </div>    </div>
-
-<!-- LOGIN MODAL -->
-
-                
-                        </div>
+                 </div>
     </div>
 
-   <jsp:include page="../jsp/banner.jsp"></jsp:include>
+    <jsp:include page="../jsp/banner.jsp"></jsp:include>
 
     <div class="td-header-menu-wrap-full td-container-wrap ">
         
         <div class="td-header-menu-wrap td-header-menu-no-search">
+        
            <jsp:include page="../jsp/policyTypes.jsp"></jsp:include>
         </div>
     </div>
 
 </div>
             </div>
-            
     <div class="td-main-content-wrap td-container-wrap">
 
         <div class="td-container td-post-template-default ">
@@ -1719,10 +1833,9 @@ var td_ad_background_click_target="";
                                         <div class="td-pb-span8 td-main-content" role="main">
                             <div class="td-ss-main-content">
                                 
-    <article id="post-392" class="post-392 post type-post status-publish format-standard has-post-thumbnail category-lic-term-plans" 0>
+    <article id="post-374" class="post-374 post type-post status-publish format-standard has-post-thumbnail category-child-plans category-endowment-plans category-money-back-plans category-pension-plans category-whole-life-plans" 0>
         <div class="td-post-header">
 
-            <!-- category --><ul class="td-category"><li class="entry-category"><a  href="https://www.licagentpune.com/lic/lic-term-plans">Term Plans</a></li></ul>
             <header class="td-post-title">
                 <h1 class="entry-title">LIC Jeevan Amar</h1>
                 
@@ -1786,15 +1899,11 @@ var td_ad_background_click_target="";
 				    }
                 }
 </style><div class="wp-block-buttons aligncenter"><!-- wp:button {"textColor":"very-dark-gray","customBackgroundColor":"#ffffff","className":"is-style-round"} -->
-<div class="wp-block-button is-style-round"><a class="wp-block-button__link has-text-color has-very-dark-gray-color has-background" style="background-color:#ffffff">Get in touch</a></div>
+<div class="wp-block-button is-style-round"><a class="wp-block-button__link has-text-color has-very-dark-gray-color has-background" style="background-color:#ffffff">Keep in touch</a></div>
 <!-- /wp:button -->
 
 <!-- wp:button {"borderRadius":11} -->
-<div class="wp-block-button"><a class="wp-block-button__link" href="tel:09949346104" style="border-radius:11px">📞 9949346104</a></div>
-<!-- /wp:button -->
-
-<!-- wp:button {"backgroundColor":"vivid-green-cyan","borderRadius":11,"className":"is-style-round"} -->
-<div class="wp-block-button is-style-round"><a class="wp-block-button__link has-background has-vivid-green-cyan-background-color" href="https://wa.me/919768187224?text=I'm%20interested%20in%20your%20insurance%20Services" style="border-radius:11px">💬 WhatsApp</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="tel:09949346104" style="border-radius:11px"> 9949346104</a></div>
 <!-- /wp:button --></div></div>        </div>
 
         <footer>
@@ -1802,22 +1911,22 @@ var td_ad_background_click_target="";
             <div class="td-post-source-tags">
                 <!-- source via -->                <!-- tags -->            </div>
 
-                        <!-- next prev -->            <!-- author box --><div class="td-author-name vcard author" style="display: none"><span class="fn"><a href="https://www.licagentpune.com/author/licadmin">LICAgentPune</a></span></div>            <!-- meta -->        </footer>
+                        <!-- next prev -->            <!-- author box --><div class="td-author-name vcard author" style="display: none"><span class="fn"><a href="/licadmin">LICAgentPune</a></span></div>            <!-- meta -->        </footer>
 
     </article> <!-- /.post -->
 
-    <div class="td_block_wrap td_block_related_posts tdi_10_322 td_with_ajax_pagination td-pb-border-top td_block_template_4"  data-td-block-uid="tdi_10_322" ><script>var block_tdi_10_322 = new tdBlock();
-block_tdi_10_322.id = "tdi_10_322";
-block_tdi_10_322.atts = '{"limit":3,"ajax_pagination":"next_prev","live_filter":"cur_post_same_categories","td_ajax_filter_type":"td_custom_related","class":"tdi_10_322","td_column_number":3,"live_filter_cur_post_id":392,"live_filter_cur_post_author":"1","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_ajax_preloading":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","tdc_css_class":"tdi_10_322","tdc_css_class_style":"tdi_10_322_rand_style"}';
-block_tdi_10_322.td_column_number = "3";
-block_tdi_10_322.block_type = "td_block_related_posts";
-block_tdi_10_322.post_count = "1";
-block_tdi_10_322.found_posts = "1";
-block_tdi_10_322.header_color = "";
-block_tdi_10_322.ajax_pagination_infinite_stop = "";
-block_tdi_10_322.max_num_pages = "1";
-tdBlocksArray.push(block_tdi_10_322);
-</script><h4 class="td-related-title td-block-title"><a id="tdi_11_88e" class="td-related-left td-cur-simple-item" data-td_filter_value="" data-td_block_id="tdi_10_322" href="#">Related</a><a id="tdi_12_813" class="td-related-right" data-td_filter_value="td_related_more_from_author" data-td_block_id="tdi_10_322" href="#">More </a></h4><div id=tdi_10_322 class="td_block_inner">
+    <div class="td_block_wrap td_block_related_posts tdi_10_37d td_with_ajax_pagination td-pb-border-top td_block_template_4"  data-td-block-uid="tdi_10_37d" ><script>var block_tdi_10_37d = new tdBlock();
+block_tdi_10_37d.id = "tdi_10_37d";
+block_tdi_10_37d.atts = '{"limit":3,"ajax_pagination":"next_prev","live_filter":"cur_post_same_categories","td_ajax_filter_type":"td_custom_related","class":"tdi_10_37d","td_column_number":3,"live_filter_cur_post_id":374,"live_filter_cur_post_author":"1","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_ajax_preloading":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","tdc_css_class":"tdi_10_37d","tdc_css_class_style":"tdi_10_37d_rand_style"}';
+block_tdi_10_37d.td_column_number = "3";
+block_tdi_10_37d.block_type = "td_block_related_posts";
+block_tdi_10_37d.post_count = "3";
+block_tdi_10_37d.found_posts = "9";
+block_tdi_10_37d.header_color = "";
+block_tdi_10_37d.ajax_pagination_infinite_stop = "";
+block_tdi_10_37d.max_num_pages = "3";
+tdBlocksArray.push(block_tdi_10_37d);
+</script><div id=tdi_10_37d class="td_block_inner">
 
 	<div class="td-related-row">
 
@@ -1835,25 +1944,23 @@ tdBlocksArray.push(block_tdi_10_322);
                         </div>
                         <div class="td-pb-span4 td-main-sidebar" role="complementary">
                             <div class="td-ss-main-sidebar">
-                                <aside id="text-2" class="td_block_template_4 widget text-2 widget_text"><h4 class="td-block-title"><span>Book an Appointment</span></h4>			<div class="textwidget"><div role="form" class="wpcf7" id="wpcf7-f117-p392-o1" lang="en-US" dir="ltr">
-<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="/lic-jeevan-amar#wpcf7-f117-p392-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
-<div style="display: none;">
-<input type="hidden" name="_wpcf7" value="117" />
-<input type="hidden" name="_wpcf7_version" value="5.6.1" />
-<input type="hidden" name="_wpcf7_locale" value="en_US" />
-<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f117-p392-o1" />
-<input type="hidden" name="_wpcf7_container_post" value="392" />
-<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
-</div>
-<p><label><span class="wpcf7-form-control-wrap" data-name="your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Name *" /></span> </label></p>
-<p><label><span class="wpcf7-form-control-wrap" data-name="your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email Address *" /></span> </label></p>
-<p><label><span class="wpcf7-form-control-wrap" data-name="your-phone"><input type="text" name="your-phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Phone Number *" /></span> </label></p>
-<p><label><span class="wpcf7-form-control-wrap" data-name="your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message *"></textarea></span> </label></p>
-<p><input type="submit" value="Submit" class="wpcf7-form-control has-spinner wpcf7-submit" /></p>
-<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>
-</div>
-		</aside>                            </div>
+								 <aside id="text-2" class="td_block_template_4 widget text-2 widget_text"><h4 class="td-block-title"><span>Book an Appointment</span></h4>			<div class="textwidget"><div role="form" class="wpcf7" id="wpcf7-f117-o1" lang="en-US" dir="ltr">
+								<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+								<div>
+								<form:form action="register" method="post" modelAttribute="user"> 
+								<p><label><span class="wpcf7-form-control-wrap" data-name="your-name"><input type="text" name="name" th:field="*{name}"  value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Name *" /></span> </label></p>
+								<p><label><span class="wpcf7-form-control-wrap" data-name="your-email"><input type="email"  th:field="*{email}"  name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email Address *" /></span> </label></p>
+								<p><label><span class="wpcf7-form-control-wrap" data-name="your-phone"><input type="text"  th:field="*{phone}" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Phone Number *" /></span> </label></p>
+								<p><label><span class="wpcf7-form-control-wrap" data-name="your-message"><textarea name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message *"></textarea></span> </label></p>
+								<p><input type="submit" value="Submit" class="wpcf7-form-control has-spinner wpcf7-submit" /></p>
+																			  </form:form>
+																			  </div>
+								<div class="wpcf7-response-output" aria-hidden="true"></div></div>
+								<div>
+									
+								</div>
+								</div>
+										</aside>                       </div>
                         </div>
                                     </div> <!-- /.td-pb-row -->
         </div> <!-- /.td-container -->
@@ -1916,12 +2023,7 @@ tdBlocksArray.push(block_tdi_10_322);
 																						<input id="stickyelements-submit-form" type="submit" name="contact-form-submit"
 												   value="Submit"
 												   style="background-color: #7761DF;color:#FFFFFF;"/>
-																						<input type="hidden" name="nonce" value="638e362fc6e731670264367638e362fc6e76">
-											<input type="hidden" name="widget_name" value="">
-											<input type="hidden" name="widget_number" value="">
-											<input type="hidden" name="form_id"
-												   value="4d018196e7">
-											<input type="hidden" id="stickyelements-page-link" name="stickyelements-page-link" value="https://www.licagentpune.com/lic-jeevan-amar" />
+											
 										</form>
 										<p class="mse-form-success-message" id="mse-form-error" style="display:none;"></p>
 									</div>

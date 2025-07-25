@@ -5,19 +5,15 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<!-- paste url total line--> 
 <link rel="icon" type="image/png" href="images/lic-ag-pune.png"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="images/lic Agent.jpg"/><link rel="apple-touch-icon-precomposed" sizes="120x120" href="images/lic Agent.jpg"/><link rel="apple-touch-icon-precomposed" sizes="152x152" href="images/lic Agent.jpg"/><link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/lic Agent.jpg"/><link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/lic Agent.jpg"/>
-	<!-- This site is optimized with the Yoast SEO Premium plugin v16.1 - https://yoast.com/wordpress/plugins/seo/ -->
 	<link rel="canonical" href="/jeevan-tarun-plan" />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; Feed" href="files/feed" />
-<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; Comments Feed" href="files/feed" />
-<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; LIC Jeevan Tarun Plan Comments Feed" href="files/feed" />
-<!-- <script type="text/javascript">
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.licagentpune.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
-/*! This file is auto-generated */
-!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
-</script> -->
+<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; Feed" href="files/feed" /> <!-- paste url -->
+<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; Comments Feed" href="files/feed" /> <!-- paste url -->
+<link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; LIC Jeevan Tarun Plan Comments Feed" href="files/feed" /> <!-- paste url -->
+
 <style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -32,34 +28,18 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel="stylesheet" href="css/a5ff7.css" media="all" />
+	<link rel="stylesheet" href="css/a5ff7.css" media="all" /> <!-- paste url -->
 
 <style id='global-styles-inline-css' type='text/css'>
 body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 11px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 32px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--regular: 15px;--wp--preset--font-size--larger: 50px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
 </style>
-<link rel="stylesheet" href="css/24a12.css" media="all" />
+<link rel="stylesheet" href="css/24a12.css" media="all" /> <!-- paste url --> 
 <link rel='stylesheet' id='google-fonts-style-css'  href='https://fonts.googleapis.com/css?family=Lato%3A400%7COpen+Sans%3A400%2C600%2C700%7CRoboto%3A400%2C500%2C700&#038;display=swap&#038;ver=10.3.4' type='text/css' media='all' />
-<link rel="stylesheet" href="css/32fce.css" media="all" />
+<link rel="stylesheet" href="css/32fce.css" media="all" /> <!-- paste url --> 
 
-
-<style id='td-theme-inline-css' type='text/css'>
-    
-        @media (max-width: 767px) {
-            .td-header-desktop-wrap {
-                display: none;
-            }
-        }
-        @media (min-width: 767px) {
-            .td-header-mobile-wrap {
-                display: none;
-            }
-        }
-    
-	
-</style>
 <link rel='stylesheet' id='mystickyelements-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600%2C700&#038;ver=1.7.8' type='text/css' media='all' />
-<link rel="stylesheet" href="css/2fdce.css" media="all" />
-<script src="js/818c0.js"></script>
+<link rel="stylesheet" href="css/2fdce.css" media="all" />  <!-- paste url -->
+<script src="js/818c0.js"></script> <!-- paste url -->
 <meta name="generator" content="WordPress 6.0.3" />
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
        <!--  <script>
@@ -72,8 +52,6 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <!-- JS generated by theme -->
 
 <script>
-    
-    
 
 	    var tdBlocksArray = []; //here we store all the items for the current page
 
@@ -179,13 +157,6 @@ var tdc_is_installed="yes";
 var tds_snap_menu="snap";
 var tds_logo_on_sticky="";
 var tds_header_style="3";
-var td_please_wait="Please wait...";
-var td_email_user_pass_incorrect="User or password incorrect!";
-var td_email_user_incorrect="Email or username incorrect!";
-var td_email_incorrect="Email incorrect!";
-var tds_more_articles_on_post_enable="";
-var tds_more_articles_on_post_time_to_wait="";
-var tds_more_articles_on_post_pages_distance_from_top=0;
 var tds_theme_color_site_wide="#31d6aa";
 var tds_smart_sidebar="enabled";
 var tdThemeName="Newspaper";
@@ -1675,64 +1646,6 @@ var td_ad_background_click_target="";
         <div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
 
     <div class="td-menu-background"></div>
-<!-- <div id="td-mobile-nav">
-    <div class="td-mobile-container">
-        mobile menu top section
-        <div class="td-menu-socials-wrap">
-            socials
-            <div class="td-menu-socials">
-                
-        <span class="td-social-icon-wrap">
-            <a target="_blank" href="https://www.licagentpune.com" title="Facebook">
-                <i class="td-icon-font td-icon-facebook"></i>
-            </a>
-        </span>
-        <span class="td-social-icon-wrap">
-            <a target="_blank" href="https://www.licagentpune.com" title="Instagram">
-                <i class="td-icon-font td-icon-instagram"></i>
-            </a>
-        </span>
-        <span class="td-social-icon-wrap">
-            <a target="_blank" href="https://www.licagentpune.com" title="Linkedin">
-                <i class="td-icon-font td-icon-linkedin"></i>
-            </a>
-        </span>
-        <span class="td-social-icon-wrap">
-            <a target="_blank" href="https://www.licagentpune.com" title="Twitter">
-                <i class="td-icon-font td-icon-twitter"></i>
-            </a>
-        </span>            </div>
-            close button
-            <div class="td-mobile-close">
-                <a href="#"><i class="td-icon-close-mobile"></i></a>
-            </div>
-        </div>
-
-        login section
-        
-        menu section
-        <div class="td-mobile-content">
-                </div>
-    </div>
-
-   
-    </div>  -->  <!--  <div class="td-search-background"></div>
-<div class="td-search-wrap-mob">
-	<div class="td-drop-down-search">
-		<form method="get" class="td-search-form" action="https://www.licagentpune.com/">
-			close button
-			<div class="td-search-close">
-				<a href="#"><i class="td-icon-close-mobile"></i></a>
-			</div>
-			<div role="search" class="td-search-input">
-				<span>Search</span>
-				<input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off" />
-			</div>
-		</form>
-		<div id="td-aj-search-mob" class="td-ajax-search-flex"></div>
-	</div>
-</div> -->
-
     <div id="td-outer-wrap" class="td-theme-wrap">
     
         
@@ -2115,7 +2028,7 @@ color: #ffffff;
 </style>
 
 
-<script src="js/31730.js"></script>
+<script src="js/31730.js"></script> <!-- paste url -->
 
 <script type='text/javascript' id='contact-form-7-js-extra'>
 /* <![CDATA[ */
@@ -2127,7 +2040,7 @@ var wpcf7 = {"api":{"root":"https:\/\/www.licagentpune.com\/wp-json\/","namespac
 
 
 
-<script src="js/99a8f.js"></script>
+<script src="js/99a8f.js"></script>  <!-- paste url -->
 
 <script type='text/javascript' id='jquery-fancybox-js-after'>
 var fb_timeout, fb_opts={'overlayShow':true,'hideOnOverlayClick':true,'showCloseButton':true,'margin':20,'centerOnScroll':false,'enableEscapeButton':true,'autoScale':true };
@@ -2149,7 +2062,7 @@ jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_hand
 jQuery(easy_fancybox_auto);
 </script>
 
-<script src="js/ecadd.js"></script>
+<script src="js/ecadd.js"></script> <!-- paste url -->
 
 <script type='text/javascript' id='mystickyelements-fronted-js-js-extra'>
 /* <![CDATA[ */
@@ -2157,7 +2070,7 @@ var mystickyelements = {"ajaxurl":"https:\/\/www.licagentpune.com\/wp-admin\/adm
 /* ]]> */
 </script>
 
-<script src="js/9516f.js"></script>
+<script src="js/9516f.js"></script> <!-- paste url -->
 
 
 <!-- JS generated by theme -->

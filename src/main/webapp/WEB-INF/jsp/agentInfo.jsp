@@ -9,7 +9,6 @@
     <!--  <link rel="pingback" href="https://www.licagentpune.com/xmlrpc.php" />  -->
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 <link rel="icon" type="image/png" href="images/DSC05314.JPG"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="images/DSC05314.JPG"/><link rel="apple-touch-icon-precomposed" sizes="120x120" href="images/DSC05314.JPG"/><link rel="apple-touch-icon-precomposed" sizes="152x152" href="images/DSC05314.JPG"/><link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/DSC05314.JPG"/><link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/DSC05314.JPG"/>
-	<!-- This site is optimized with the Yoast SEO Premium plugin v16.1 - https://yoast.com/wordpress/plugins/seo/ -->
 	<link rel="canonical" href="/" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="website" />
@@ -24,10 +23,6 @@
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label1" content="Est. reading time">
 	<meta name="twitter:data1" content="1 minute">
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.licagentpune.com/#organization","name":"LIC Agent Hyderabad","url":"/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://www.licagentpune.com/#logo","inLanguage":"en-US","url":"https://www.licagentpune.com/wp-content/uploads/2020/07/lic-agent-140-48.png","contentUrl":"https://www.licagentpune.com/wp-content/uploads/2020/07/lic-agent-140-48.png","width":140,"height":48,"caption":"LIC Agent Hyderabad"},"image":{"@id":"https://www.licagentpune.com/#logo"}},{"@type":"WebSite","@id":"https://www.licagentpune.com/#website","url":"https://www.licagentpune.com/","name":"LIC Agent Hyderabad","description":"Just another WordPress site","publisher":{"@id":"https://www.licagentpune.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.licagentpune.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.licagentpune.com/#primaryimage","inLanguage":"en-US","url":"images/home banner.jpg","contentUrl":"images/home banner.jpg","width":1200,"height":675,"caption":"LIC Insurance Agent "},{"@type":"WebPage","@id":"https://www.licagentpune.com/#webpage","url":"https://www.licagentpune.com/","name":"Life Insurance Agent &raquo; LIC Agent Hyderabad","isPartOf":{"@id":"https://www.licagentpune.com/#website"},"about":{"@id":"https://www.licagentpune.com/#organization"},"primaryImageOfPage":{"@id":"https://www.licagentpune.com/#primaryimage"},"datePublished":"2020-06-29T13:40:05+00:00","dateModified":"2020-07-18T05:20:08+00:00","breadcrumb":{"@id":"https://www.licagentpune.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.licagentpune.com/"]}]},{"@type":"BreadcrumbList","@id":"https://www.licagentpune.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.licagentpune.com/","url":"https://www.licagentpune.com/","name":"LIC Agent Hyderabad"}}]}]}</script>
-	<!-- / Yoast SEO Premium plugin. -->
-
-
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; Feed" href="files/feed" />
@@ -1723,7 +1718,7 @@ var td_ad_background_click_target="";
         
         <!-- menu section -->
         <div class="td-mobile-content">
-            <div class="menu-main-menu-container"><ul id="menu-main-menu" class="td-mobile-main-menu"><li id="menu-item-351" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first menu-item-351"><a href="https://www.licagentpune.com/lic/pension-plans">Pension Plans</a></li>
+            <div class="menu-main-menu-container"><ul id="menu-main-menu" class="td-mobile-main-menu"><li id="menu-item-351" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first menu-item-351"><a href="//pensionplans">Pension Plans</a></li> <!-- https://www.licagentpune.com/lic/pension-plans-->
 <li id="menu-item-352" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-352"><a href="/sub/child-plans">Child Plans  </a></li>  <!-- paste url -->
 <li id="menu-item-353" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-353"><a href="/sub/money-back-plans">Money Back Plans</a></li>
 <li id="menu-item-354" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-354"><a href="/sub/whole-life-plans">Whole Life Plans</a></li>

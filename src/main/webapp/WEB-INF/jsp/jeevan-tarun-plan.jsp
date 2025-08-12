@@ -2030,11 +2030,11 @@ color: #ffffff;
 
 <script src="js/31730.js"></script> <!-- paste url -->
 
-<script type='text/javascript' id='contact-form-7-js-extra'>
+<!--<script type='text/javascript' id='contact-form-7-js-extra'>
 /* <![CDATA[ */
 var wpcf7 = {"api":{"root":"https:\/\/www.licagentpune.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
 /* ]]> */
-</script>
+</script>-->
 
 
 

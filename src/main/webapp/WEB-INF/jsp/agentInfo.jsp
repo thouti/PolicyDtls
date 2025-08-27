@@ -20,15 +20,15 @@
 	<meta property="og:image" content="images/home banner.jpg" />
 	<meta property="og:image:width" content="1200" />
 	<meta property="og:image:height" content="675" />
-	<meta name="twitter:card" content="summary_large_image" />
+	<!--<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label1" content="Est. reading time">
-	<meta name="twitter:data1" content="1 minute">
+	<meta name="twitter:data1" content="1 minute">-->
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; Feed" href="files/feed" />
 <link rel="alternate" type="application/rss+xml" title="LIC Agent Hyderabad &raquo; Comments Feed" href="files/feed" />
 <script type="text/javascript">
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.licagentpune.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.2"}};
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":/js\/wp-emoji-release.min.js?ver=6.0.2"}};  <!-- paste url -->
 /*! This file is auto-generated */
 !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
 </script>
@@ -79,24 +79,18 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 
 
+<!-- paste url -->
+
+<script src="js/818c0.js"></script> <!-- paste url -->
 
 
-<script src="js/818c0.js"></script>
 
-
-<!--<link rel="https://api.w.org/" href="https://www.licagentpune.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.licagentpune.com/wp-json/wp/v2/pages/120" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.licagentpune.com/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.licagentpune.com/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 6.0.2" />
-<link rel="alternate" type="application/json+oembed" href="https://www.licagentpune.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.licagentpune.com%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://www.licagentpune.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.licagentpune.com%2F&#038;format=xml" /> -->
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]
-        <script>
-        window.tdb_globals = {"wpRestNonce":"2931df4e47","wpRestUrl":"https:\/\/www.licagentpune.com\/wp-json\/","permalinkStructure":"\/%postname%","isAjax":false,"isAdminBarShowing":false,"autoloadScrollPercent":50};
+        <script>  
+        window.tdb_globals = {"wpRestNonce":"2931df4e47","wpRestUrl":"js\/wp-json\/","permalinkStructure":"\/%postname%","isAjax":false,"isAdminBarShowing":false,"autoloadScrollPercent":50};
     </script>
-    			<script>
-				window.tdwGlobal = {"adminUrl":"https:\/\/www.licagentpune.com\/wp-admin\/","wpRestNonce":"2931df4e47","wpRestUrl":"https:\/\/www.licagentpune.com\/wp-json\/","permalinkStructure":"\/%postname%"};
-			</script> -->
-			
+    			
 <!-- JS generated by theme -->
 <!--
 <script>
@@ -204,8 +198,6 @@ var tds_animation_stack=true;
 var td_animation_stack_specific_selectors=".entry-thumb, img";
 var td_animation_stack_general_selectors=".td-animation-stack img, .td-animation-stack .entry-thumb, .post img";
 var tdc_is_installed="yes";
-var td_ajax_url="https:\/\/www.licagentpune.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=10.3.4";
-var td_get_template_directory_uri="https:\/\/www.licagentpune.com\/wp-content\/plugins\/td-composer\/legacy\/common";
 var tds_snap_menu="snap";
 var tds_logo_on_sticky="";
 var tds_header_style="3";
@@ -471,25 +463,17 @@ var td_ad_background_click_target="";
     {
         background-color: rgba(49, 214, 170, 0.7);
     }
-
-
-    
     @media (max-width: 767px) {
         body .td-header-wrap .td-header-main-menu {
             background-color: #f9f0e6 !important;
         }
     }
-
-
-    
     @media (max-width: 767px) {
         body #td-top-mobile-toggle i,
         .td-header-wrap .header-search-wrap .td-icon-search {
             color: #1e73be !important;
         }
     }
-
-    
     .td-menu-background:before,
     .td-search-background:before {
         background: rgba(0,0,0,0.7);
@@ -1920,11 +1904,11 @@ color: #ffffff;
 </style>
 
 
-<script src="js/31730.js"></script>
+<script src="js/31730.js"></script> <!-- paste url -->
 
 <script type='text/javascript' id='contact-form-7-js-extra'>
 /* <![CDATA[ */
-var wpcf7 = {"api":{"root":"https:\/\/www.licagentpune.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+var wpcf7 = {"api":{"root":"js\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};   <!--paste url -->
 /* ]]> */
 </script>
 
@@ -1932,7 +1916,7 @@ var wpcf7 = {"api":{"root":"https:\/\/www.licagentpune.com\/wp-json\/","namespac
 
 
 
-<script src="js/99a8f.js"></script>
+<script src="js/99a8f.js"></script> <!-- paste url -->
 
 <script type='text/javascript' id='jquery-fancybox-js-after'>
 var fb_timeout, fb_opts={'overlayShow':true,'hideOnOverlayClick':true,'showCloseButton':true,'margin':20,'centerOnScroll':false,'enableEscapeButton':true,'autoScale':true };
@@ -1954,15 +1938,15 @@ jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_hand
 jQuery(easy_fancybox_auto);
 </script>
 
-<script src="js/ecadd.js"></script>
+<script src="js/ecadd.js"></script> <!-- paste url -->
 
-<script type='text/javascript' id='mystickyelements-fronted-js-js-extra'>
+<!--<script type='text/javascript' id='mystickyelements-fronted-js-js-extra'>
 /* <![CDATA[ */
 var mystickyelements = {"ajaxurl":"https:\/\/www.licagentpune.com\/wp-admin\/admin-ajax.php","ajax_nonce":"c5ac506ee8","google_analytics":""};
 /* ]]> */
-</script>
+</script>-->
 
-<script src="js/9516f.js"></script>
+<script src="js/9516f.js"></script> <!-- paste url -->
 
 
 <!-- JS generated by theme -->
